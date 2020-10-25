@@ -28,7 +28,7 @@ But please make sure that you follow these rules:
 
 ## Rules for Compendium Packs
 
-The [Fan Use Policy](https://www.montecookgames.com/fan-support/fan-use-policy/) only allows the use of game terms, so the items in the compendia should only consist of these elemts:
+The [Fan Use Policy](https://www.montecookgames.com/fan-support/fan-use-policy/) only allows the use of game terms and associated numerical values, so the items in the compendia should only consist of these elemts:
 
 The name as it appears in the books and the associated numerical values (damage values, armor rating, cost, etc.). In the description of each item, list the cost (if applicable) and the source in the following format: “(Title, page number).” Ideall,y the image is chosen from the core data images. If you want to use other images, make sure that you have the proper license and credits. Example:
 
