@@ -1,1 +1,1 @@
-# cyphersystem-foundryvtt-compendium
+# cyphersystem-compendium
