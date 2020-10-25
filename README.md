@@ -7,7 +7,12 @@
 
 This is a module for use in conjunction with the [Cypher System game system for Foundry VTT](https://foundryvtt.com/packages/cyphersystem/). The Cypher System Compendium expands the Cypher System game system with compendia full of equipment, cyphers, and abilities.
 
-The content is crowd sourced by the Cypher and Foundry VTT community.
+The content is crowd sourced by the Cypher and Foundry VTT community. I’ll submit this module to the Foundry database when it has more content. Until follow these steps to install it:
+
+1. Open Foundry VTT and open “Add-on Modules.”
+2. Click on “Install Module.”
+3. Copy the following URL into the Manifest URL filed at the bottom of the window: https://raw.githubusercontent.com/mrkwnzl/cyphersystem-compendium/main/module.json
+4. Click on “Install.”
 
 ## Support
 
