@@ -1,19 +1,29 @@
 {
     "name": "cyphersystem-compendium",
-    "title": "Cypher System Compndium",
+    "title": "Cypher System Compendium",
     "description": "A compendium pack for the Cypher System game System",
     "author": "Marko Wenzel",
-    "version": "1.0.0",
+    "version": "0.1.0",
     "minimumCoreVersion": "0.7.5",
     "compatibleCoreVersion":"0.7.5",
     "packs": [
         {
-            "name": "equipment-numenera",
-            "label": "Equipment (Numenera)",
-            "path": "packs/equipment-numenera.db",
+            "name": "armor-numenera",
+            "label": "Armor (Numenera)",
+            "path": "packs/armor-numenera.db",
             "entity": "Item",
             "system": "cyphersystem",
             "module": "cyphersysstem-compendium"
         }
-    ]
+    ],
+    "dependencies": [
+    	{
+    	  "name": "cyphersystem",
+    	  "type": "system"
+    	}
+    ],
+    "url": "https://github.com/mrkwnzl/cyphersystem-compendium",
+    "manifest": "https://raw.githubusercontent.com/mrkwnzl/cyphersystem-foundryvtt/master/system.json",
+    "download": "https://github.com/mrkwnzl/cyphersystem-foundryvtt/releases/download/v1.4.2/cyphersystem-foundryvtt-v1.4.2.zip",
+    "license": "LICENSE.txt"
 }
