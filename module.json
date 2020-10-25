@@ -1,0 +1,19 @@
+{
+    "name": "cyphersystem-compendium",
+    "title": "Cypher System Compndium",
+    "description": "A compendium pack for the Cypher System game System",
+    "author": "Marko Wenzel",
+    "version": "1.0.0",
+    "minimumCoreVersion": "0.7.5",
+    "compatibleCoreVersion":"0.7.5",
+    "packs": [
+        {
+            "name": "equipment-numenera",
+            "label": "Equipment (Numenera)",
+            "path": "packs/equipment-numenera.db",
+            "entity": "Item",
+            "system": "cyphersystem",
+            "module": "cyphersysstem-compendium"
+        }
+    ]
+}
