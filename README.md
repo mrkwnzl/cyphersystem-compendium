@@ -7,7 +7,7 @@
 
 This is a module for use in conjunction with the [Cypher System game system for Foundry VTT](https://foundryvtt.com/packages/cyphersystem/). The Cypher System Compendium expands the Cypher System game system with compendia full of equipment, cyphers, and abilities.
 
-The content is crowd sourced by the Cypher and Foundry VTT community. I’ll submit this module to the Foundry database when it has more content. Until follow these steps to install it:
+The content is crowd-sourced by the Cypher and Foundry VTT community. I’ll submit this module to the Foundry database when it has more content. Until follow these steps to install it:
 
 1. Open Foundry VTT and open “Add-on Modules.”
 2. Click on “Install Module.”
@@ -18,7 +18,7 @@ The content is crowd sourced by the Cypher and Foundry VTT community. I’ll sub
 
 I appreciate any feedback and questions. You can reach me on Discord (@mrkwnzl#7407). If the Cypher System Compendium makes your games more accessible and fun, I’m grateful for your support:
 
-<a href="https://www.buymeacoffee.com/mrkwnzl" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" height="40"></a>
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M32HLJD)
 
 ## Contributing
 
@@ -26,13 +26,9 @@ If you want to contribute with your own compendium packs, you can do that in var
 
 But please make sure that you follow these rules:
 
-## Rules for Compendium Packs
+### Rules for Compendium Packs
 
-The [Fan Use Policy](https://www.montecookgames.com/fan-support/fan-use-policy/) only allows the use of game terms and associated numerical values, so the items in the compendia should only consist of these elemts:
-
-The name as it appears in the books and the associated numerical values (damage values, armor rating, cost, etc.). In the description of each item, list the cost (if applicable) and the source in the following format: “(Title, page number).” Ideally, the image is chosen from the core data images. If you want to use other images, make sure that you have the proper license and credits. Example:
-
-![Example Leather Jerkin](https://raw.githubusercontent.com/mrkwnzl/cyphersystem-compendium/main/screenshots/example_leather_jerkin.png)
+The [Fan Use Policy](https://www.montecookgames.com/fan-support/fan-use-policy/) only allows the use of game terms and associated numerical values, so we can’t use the official material from any of the books published by MCG (or any other trademarked material, for that matter). That means we can only use generic or self-made equipment, Cyphers, Artifacts, Oddities, NPCs, and creatures.
 
 ## Fan Use Policy
 
