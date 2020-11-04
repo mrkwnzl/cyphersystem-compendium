@@ -20,6 +20,8 @@ I appreciate any feedback and questions. You can reach me on Discord (@mrkwnzl#7
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M32HLJD)
 
+<a href="https://www.buymeacoffee.com/mrkwnzl" target="_blank" style="height:20px;"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" ></a>
+
 ## Contributing
 
 If you want to contribute with your own compendium packs, you can do that in various ways. The most important part is that you send me your compendium pack in form of a .db-file. You can do that by creating an issue here on GitHub and attaching your zipped .db-file, by cloning this project and issuing a pull request, or by contacting me on Discord (@mrkwnzl#7407) and sending me your file there.
