@@ -18,9 +18,7 @@ The content is crowd-sourced by the Cypher and Foundry VTT community. I’ll sub
 
 I appreciate any feedback and questions. You can reach me on Discord (@mrkwnzl#7407). If the Cypher System Compendium makes your games more accessible and fun, I’m grateful for your support:
 
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M32HLJD)
-
-<a href="https://www.buymeacoffee.com/mrkwnzl" target="_blank" style="height:20px;"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" ></a>
+<a href="https://www.buymeacoffee.com/mrkwnzl" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" height="40"></a>
 
 ## Contributing
 
