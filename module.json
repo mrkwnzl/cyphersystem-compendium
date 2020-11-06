@@ -64,6 +64,6 @@
     ],
     "url": "https://github.com/mrkwnzl/cyphersystem-compendium",
     "manifest": "https://raw.githubusercontent.com/mrkwnzl/cyphersystem-compendium/main/module.json",
-    "download": "https://github.com/mrkwnzl/cyphersystem-compendium/releases/download/v0.1.0/cyphersystem-compendium-v0.1.0.zip",
+    "download": "https://github.com/mrkwnzl/cyphersystem-compendium/releases/download/v0.2.0/cyphersystem-compendium-v0.2.0.zip",
     "license": "LICENSE.txt"
 }
