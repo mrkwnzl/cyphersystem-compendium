@@ -45,9 +45,15 @@ The [Fan Use Policy](https://www.montecookgames.com/fan-support/fan-use-policy/)
 
 Please use the images that ship with Foundry VTT or images you own (which are most certainly images you created yourself) for your items. You find the Foundry VTT icons in the file browser under “Core Data” in the folder “icons.” If you use the images from Foundry VTT, you don’t need to do anything else. If you use other images, please contact beforehand, so that we can take a look at that together.
 
-### Naming conventions
+### Style Guide
 
-Names: Only 
+We try to follow the naming conventions of the Cypher System books.
+
+**Names:** Only the first word is capitalized. Examples: “Dart thrower,” “Light armor.”
+
+**Ranges:** Ranges of attacks are not capitalized, the word “range” is included in the abstract ranges, but in concrete ranges. Examples: “long range,” “50 m.”
+
+**Notes:** Notes are not capitalized, unless following a full stop. Usually, separate several notes by a comma.
 
 ## Fan Use Policy
 
