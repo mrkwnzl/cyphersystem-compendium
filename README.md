@@ -32,7 +32,7 @@ If you want to contribute with your own compendium packs, you can do that. In or
 - Create your Compendium (in Foundry VTT).
 - Drag and drop each entity you want to add to your Compendium into the just created Compendium. Please make sure that you follow the rules for the items we can use in this module (see below).
 
-**Step 3 - Sending me the Compendium**
+**Step 2 - Sending me the Compendium**
 
 - Using your Operating System's File Browser, access your UserData folder, then the Worlds folder (./Data/worlds/).
 - Locate and open the folder for the World that you created the Compendium in.
