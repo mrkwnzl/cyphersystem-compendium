@@ -49,11 +49,11 @@ Please use the images that ship with Foundry VTT or images you own (which are mo
 
 We try to follow the naming conventions of the Cypher System books.
 
-**Names:** Only the first word is capitalized. Examples: “Dart thrower,” “Light armor.”
+- **Names:** Only the first word is capitalized. Examples: “Dart thrower,” “Light armor.”
 
-**Ranges:** Ranges of attacks are not capitalized, the word “range” is included in the abstract ranges, but in concrete ranges. Examples: “long range,” “50 m.”
+- **Ranges:** Ranges of attacks are not capitalized, the word “range” is included in the abstract ranges, but in concrete ranges. Examples: “long range,” “50 m.”
 
-**Notes:** Notes are not capitalized, unless following a full stop. Usually, separate several notes by a comma.
+- **Notes:** Notes are not capitalized, unless following a full stop. Usually, separate several notes by a comma.
 
 ## Fan Use Policy
 
