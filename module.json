@@ -3,17 +3,57 @@
     "title": "Cypher System Compendium",
     "description": "A compendium pack for the Cypher System game System",
     "author": "Marko Wenzel",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "minimumCoreVersion": "0.7.5",
     "compatibleCoreVersion":"0.7.5",
     "packs": [
         {
-            "name": "armor-numenera",
-            "label": "Armor (Numenera)",
-            "path": "packs/armor-numenera.db",
-            "entity": "Item",
-            "system": "cyphersystem",
-            "module": "cyphersysstem-compendium"
+          "label": "Armor",
+          "entity": "Item",
+          "name": "armor",
+          "path": "packs/armor.db",
+          "system": "cyphersystem",
+          "module": "cyphersysstem-compendium"
+        },
+        {
+          "label": "Weapons, heavy",
+          "entity": "Item",
+          "name": "weapons-heavy",
+          "path": "packs/weapons-heavy.db",
+          "system": "cyphersystem",
+          "module": "cyphersysstem-compendium"
+        },
+        {
+          "label": "Weapons, medium",
+          "entity": "Item",
+          "name": "weapons-medium",
+          "path": "packs/weapons-medium.db",
+          "system": "cyphersystem",
+          "module": "cyphersysstem-compendium"
+        },
+        {
+          "label": "Weapons, light",
+          "entity": "Item",
+          "name": "weapons-light",
+          "path": "packs/weapons-light.db",
+          "system": "cyphersystem",
+          "module": "cyphersysstem-compendium"
+        },
+        {
+          "label": "Adventuring Gear",
+          "entity": "Item",
+          "name": "adventuring-gear",
+          "path": "packs/adventuring-gear.db",
+          "system": "cyphersystem",
+          "module": "cyphersysstem-compendium"
+        },
+        {
+          "label": "Everyday Items",
+          "entity": "Item",
+          "name": "everyday-items",
+          "path": "packs/everyday-items.db",
+          "system": "cyphersystem",
+          "module": "cyphersysstem-compendium"
         }
     ],
     "dependencies": [
