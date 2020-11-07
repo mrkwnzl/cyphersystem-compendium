@@ -28,7 +28,7 @@ If you want to contribute with your own compendium packs, you can do that. In or
 
 **Step 1 - Building the Compendium**
 
-- Make sure you have updated the Cypher System game system to at least version 1.6.2.
+- Make sure you have updated the Cypher System game system to at least version 1.6.3.
 - Create your Compendium (in Foundry VTT).
 - Drag and drop each entity you want to add to your Compendium into the just created Compendium. Please make sure that you follow the rules for the items we can use in this module (see below).
 
