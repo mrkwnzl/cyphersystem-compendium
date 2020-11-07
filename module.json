@@ -3,9 +3,9 @@
     "title": "Cypher System Compendium",
     "description": "A compendium pack for the Cypher System game System",
     "author": "Marko Wenzel",
-    "version": "0.2.1",
+    "version": "0.2.2",
     "minimumCoreVersion": "0.7.5",
-    "compatibleCoreVersion":"0.7.5",
+    "compatibleCoreVersion":"0.7.6",
     "packs": [
         {
           "label": "Armor",
@@ -64,6 +64,6 @@
     ],
     "url": "https://github.com/mrkwnzl/cyphersystem-compendium",
     "manifest": "https://raw.githubusercontent.com/mrkwnzl/cyphersystem-compendium/main/module.json",
-    "download": "https://github.com/mrkwnzl/cyphersystem-compendium/releases/download/v0.2.1/cyphersystem-compendium-v0.2.1.zip",
+    "download": "https://github.com/mrkwnzl/cyphersystem-compendium/releases/download/v0.2.2/cyphersystem-compendium-v0.2.2.zip",
     "license": "LICENSE.txt"
 }
