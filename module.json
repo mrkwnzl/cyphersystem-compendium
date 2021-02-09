@@ -59,8 +59,14 @@
     "dependencies": [
     	{
     	  "name": "cyphersystem",
-    	  "type": "system"
-    	}
+    	  "type": "system",
+          "manifest": "https://raw.githubusercontent.com/mrkwnzl/cyphersystem-foundryvtt/master/system.json"
+    	},
+        {
+            "name": "game-icons-net",
+            "type": "module",
+            "manifest": "https://raw.githubusercontent.com/datdamnzotz/icons/master/module.json"
+        }
     ],
     "url": "https://github.com/mrkwnzl/cyphersystem-compendium",
     "manifest": "https://raw.githubusercontent.com/mrkwnzl/cyphersystem-compendium/main/module.json",
