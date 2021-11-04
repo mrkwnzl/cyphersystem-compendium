@@ -5,14 +5,15 @@
 ![GitHub All Releases](https://img.shields.io/github/downloads/mrkwnzl/cyphersystem-compendium/total?style=flat-square)
 ![License](https://img.shields.io/github/license/mrkwnzl/cyphersystem-compendium?style=flat-square)
 
-This is a module for use in conjunction with the [Cypher System game system for Foundry VTT](https://foundryvtt.com/packages/cyphersystem/). The Cypher System Compendium expands the Cypher System game system with compendia full of equipment, cyphers, and abilities.
+This is a module for use in conjunction with the [Cypher System game system for Foundry VTT](https://foundryvtt.com/packages/cyphersystem/). The Cypher System Compendium expands the Cypher System game system with compendia full of equipment based on the System Reference Document, the Modern System Reference Document, and the System Reference Document 5.1.
 
-The content is crowd-sourced by the Cypher and Foundry VTT community. I’ll submit this module to the Foundry database when it has more content. Until then follow these steps to install it:
+## License
 
-1. Open Foundry VTT and open “Add-on Modules.”
-2. Click on “Install Module.”
-3. Copy the following URL into the Manifest URL filed at the bottom of the window: https://raw.githubusercontent.com/mrkwnzl/cyphersystem-compendium/main/module.json
-4. Click on “Install.”
+Data in `packs/fantasy-ammo.db`, `packs/fantasy-armor.db`, `packs/fantasy-equipment.db`, and `packs/fantasy-weapons.db` is taken from the System Reference Document 5.1 and used under the terms of the OGL v1.0a, see `OGL.md`.
+
+Data in `packs/modern-ammo.db`, `packs/modern-armor.db`, `packs/modern-equipment.db`, and `packs/modern-weapons.db` is taken from the Modern System Reference Document and used under the terms of the OGL v1.0a, see `OGL.md`.
+
+The software component of this system is distributed under the MIT license.
 
 ## Support
 
@@ -34,7 +35,7 @@ If you want to contribute with your own compendium packs, you can do that. In or
 
 **Step 2 - Sending me the Compendium**
 
-- Using your Operating System's File Browser, access your UserData folder, then the Worlds folder (./Data/worlds/).
+- Using your Operating System’s File Browser, access your UserData folder, then the Worlds folder (./Data/worlds/).
 - Locate and open the folder for the World that you created the Compendium in.
 - Open the packs folder (./Data/worlds/yourworldnamehere/packs/).
 - This folder will contain a file with a .db extension. If you named your compendium “my actors” it will be my-actors.db. Send me this file, either via Discord (@mrkwnzl#7407) or here in GitHub.
@@ -49,11 +50,11 @@ Please use the images that ship with Foundry VTT or images you own (which are mo
 
 We try to follow the naming conventions of the Cypher System books.
 
-- **Names:** Only the first word is capitalized. Examples: “Dart thrower,” “Light armor.”
+- **Names:** Only the first word is capitalized, unless it’s a proper name. Examples: “Dart thrower,” “Light armor,” “Colt Python.”
 
-- **Ranges:** Ranges of attacks are not capitalized, the word “range” is included in the abstract ranges, but in concrete ranges. Examples: “long range,” “50 m.”
+- **Ranges:** Ranges of attacks are not capitalized, the word “range” is included in all ranges. Examples: “long range,” “50 m range.”
 
-- **Notes:** Notes are not capitalized, unless following a full stop. Usually, separate several notes by a comma.
+- **Notes:** Notes are not capitalized, unless following a full stop. Usually, notes are separated by a comma.
 
 ## Fan Use Policy
 
@@ -61,4 +62,4 @@ We try to follow the naming conventions of the Cypher System books.
 
 ## Contributors
 
-- @Macaroons#6574
+

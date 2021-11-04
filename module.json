@@ -1,75 +1,70 @@
 {
-    "name": "cyphersystem-compendium",
-    "title": "Cypher System Compendium",
-    "description": "A compendium pack for the Cypher System game System",
-    "author": "Marko Wenzel",
-    "version": "0.2.2",
-    "minimumCoreVersion": "0.7.5",
-    "compatibleCoreVersion":"0.7.6",
-    "packs": [
-        {
-          "label": "Armor",
-          "entity": "Item",
-          "name": "armor",
-          "path": "packs/armor.db",
-          "system": "cyphersystem",
-          "module": "cyphersysstem-compendium"
-        },
-        {
-          "label": "Weapons, heavy",
-          "entity": "Item",
-          "name": "weapons-heavy",
-          "path": "packs/weapons-heavy.db",
-          "system": "cyphersystem",
-          "module": "cyphersysstem-compendium"
-        },
-        {
-          "label": "Weapons, medium",
-          "entity": "Item",
-          "name": "weapons-medium",
-          "path": "packs/weapons-medium.db",
-          "system": "cyphersystem",
-          "module": "cyphersysstem-compendium"
-        },
-        {
-          "label": "Weapons, light",
-          "entity": "Item",
-          "name": "weapons-light",
-          "path": "packs/weapons-light.db",
-          "system": "cyphersystem",
-          "module": "cyphersysstem-compendium"
-        },
-        {
-          "label": "Adventuring Gear",
-          "entity": "Item",
-          "name": "adventuring-gear",
-          "path": "packs/adventuring-gear.db",
-          "system": "cyphersystem",
-          "module": "cyphersysstem-compendium"
-        },
-        {
-          "label": "Everyday Items",
-          "entity": "Item",
-          "name": "everyday-items",
-          "path": "packs/everyday-items.db",
-          "system": "cyphersystem",
-          "module": "cyphersysstem-compendium"
-        }
-    ],
-    "dependencies": [
-    	{
-    	  "name": "cyphersystem",
-    	  "type": "system",
-          "manifest": "https://raw.githubusercontent.com/mrkwnzl/cyphersystem-foundryvtt/master/system.json"
-    	},
-        {
-            "name": "game-icons-net",
-            "type": "module",
-            "manifest": "https://raw.githubusercontent.com/datdamnzotz/icons/master/module.json"
-        }
-    ],
-    "url": "https://github.com/mrkwnzl/cyphersystem-compendium",
-    "manifest": "https://raw.githubusercontent.com/mrkwnzl/cyphersystem-compendium/main/module.json",
-    "download": "https://github.com/mrkwnzl/cyphersystem-compendium/releases/download/v0.2.2/cyphersystem-compendium-v0.2.2.zip",
-    "license": "LICENSE.txt"
+  "name": "cyphersystem-compendium",
+  "title": "Cypher System Compendium",
+  "description": "A compendium pack for the Cypher System game System",
+  "author": "Marko Wenzel",
+  "version": "0.3.0",
+  "minimumCoreVersion": "0.8.9",
+  "compatibleCoreVersion": "9",
+  "packs": [
+    {
+      "label": "Fantasy Armor",
+      "entity": "Item",
+      "name": "fantasy-armor",
+      "path": "packs/fantasy-armor.db",
+      "system": "cyphersystem",
+      "module": "cyphersystem-compendium"
+    },
+    {
+      "label": "Fantasy Equipment",
+      "entity": "Item",
+      "name": "fantasy-equipment",
+      "path": "packs/fantasy-equipment.db",
+      "system": "cyphersystem",
+      "module": "cyphersystem-compendium"
+    },
+    {
+      "label": "Fantasy Weapons",
+      "entity": "Item",
+      "name": "fantasy-weapons",
+      "path": "packs/fantasy-weapons.db",
+      "system": "cyphersystem",
+      "module": "cyphersystem-compendium"
+    },
+    {
+      "label": "Fantasy Ammo",
+      "entity": "Item",
+      "name": "fantasy-ammo",
+      "path": "packs/fantasy-ammo.db",
+      "system": "cyphersystem",
+      "module": "cyphersystem-compendium"
+    },
+    {
+      "label": "Modern Armor",
+      "entity": "Item",
+      "name": "modern-armor",
+      "path": "packs/modern-armor.db",
+      "system": "cyphersystem",
+      "module": "cyphersystem-compendium"
+    },
+    {
+      "label": "Modern Weapons",
+      "entity": "Item",
+      "name": "modern-weapons",
+      "path": "packs/modern-weapons.db",
+      "system": "cyphersystem",
+      "module": "cyphersystem-compendium"
+    }
+  ],
+  "dependencies": [
+    {
+      "name": "cyphersystem",
+      "type": "system",
+      "manifest": "https://raw.githubusercontent.com/mrkwnzl/cyphersystem-foundryvtt/master/system.json"
+    }
+  ],
+  "url": "https://github.com/mrkwnzl/cyphersystem-compendium",
+  "manifest": "https://raw.githubusercontent.com/mrkwnzl/cyphersystem-compendium/main/module.json",
+  "download": "https://github.com/mrkwnzl/cyphersystem-compendium/releases/download/v0.3.0/release.zip",
+  "license": "LICENSE.md"
 }
