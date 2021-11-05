@@ -10,21 +10,27 @@ This is a module for use in conjunction with the [Cypher System game system for 
 - **Items:** Ammo, armor, equipment, and weapons for fantasy and modern games. This equipment has been converted for Cyhpher from the System Reference Document 5.1 and the Modern System Reference Document.
 - **Actors:** Meeples, Generic NPC tokens, in five colors for levels 1 through 10 with the corresponding default values, which you can use if you quickly need more NPCs on your map.
 
-## Support
+## Support and Community
 
-I appreciate any feedback and questions. You can reach me on Discord (@mrkwnzl#7407). If the Cypher System Compendium makes your games more accessible and fun, I’m grateful for your support:
+The [Cypher FVTT Dev Discord](https://discord.gg/C5zGgtyhwa) is where the development of the system and this module is coordinated and their futures discussed, but anyone is welcome to join and share best practices, ask questions on how to use the system, and share self-created resources for your games.
+
+You can also reach me on the [official Foundry Discord](https://discord.gg/foundryvtt) or via Discord DM: @mrkwnzl#7407.
+
+## Buy Me A Coffee
+
+If the Cypher System for Foundry VTT makes your games more accessible and fun, I’m grateful for a coffee:
 
 <a href="https://www.buymeacoffee.com/mrkwnzl" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" height="40"></a>
 
 ## Contributing
 
-If you want to contribute with your own compendium packs, you can do that. In order to contribute, you need to create a Compendium in Foundry VTT and send me the .db-file of that compendium. Follow these steps (from the [Foundry VTT knowledge base](https://foundryvtt.com/article/compendium/)):
+If you want to contribute with your own compendium packs, you can do that. In order to contribute, you need to create a Compendium in Foundry VTT and send me the .db-file of that compendium. Since I can’t see what’s inside the .db-files, please don’t create pull requests with your additions. Follow these steps:
 
 ### Exporting
 
 **Step 1 - Building the Compendium**
 
-- Make sure you have updated the Cypher System game system to at least version 1.6.3.
+- Make sure you have updated the Cypher system to the most recent version.
 - Create your Compendium (in Foundry VTT).
 - Drag and drop each entity you want to add to your Compendium into the just created Compendium. Please make sure that you follow the rules for the items we can use in this module (see below).
 
