@@ -48,6 +48,14 @@
       "module": "cyphersystem-compendium"
     },
     {
+      "label": "Modern Equipment",
+      "entity": "Item",
+      "name": "modern-equipment",
+      "path": "packs/modern-equipment.db",
+      "system": "cyphersystem",
+      "module": "cyphersystem-compendium"
+    },
+    {
       "label": "Modern Weapons",
       "entity": "Item",
       "name": "modern-weapons",

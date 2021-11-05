@@ -5,10 +5,10 @@
 ![GitHub All Releases](https://img.shields.io/github/downloads/mrkwnzl/cyphersystem-compendium/total?style=flat-square)
 ![License](https://img.shields.io/github/license/mrkwnzl/cyphersystem-compendium?style=flat-square)
 
-This is a module for use in conjunction with the [Cypher System game system for Foundry VTT](https://foundryvtt.com/packages/cyphersystem/). The Cypher System Compendium expands the Cypher System game system with compendia with useful resources. In detail, the Cypher System Compendium includes:
+This is a module for use in conjunction with the [Cypher System game system for Foundry VTT](https://foundryvtt.com/packages/cyphersystem/). The Cypher System Compendium expands the Cypher System game system with compendia full of useful resources. In detail, this includes:
 
 - **Items:** Ammo, armor, equipment, and weapons for fantasy and modern games. This equipment has been converted for Cyhpher from the System Reference Document 5.1 and the Modern System Reference Document.
-- **Meeples:** Generic NPC tokens in five color for levels 1 through 10 you can use if you quickly need more NPCs on your map.
+- **Actors:** Meeples, Generic NPC tokens, in five colors for levels 1 through 10 with the corresponding default values, which you can use if you quickly need more NPCs on your map.
 
 ## Support
 
@@ -53,9 +53,9 @@ We try to follow the naming conventions of the Cypher System books.
 
 Cypher System game terms and any material owned by Monte Cook Games is used in accordance with the Fan Use Policy.
 
-Data in `packs/fantasy-ammo.db`, `packs/fantasy-armor.db`, `packs/fantasy-equipment.db`, and `packs/fantasy-weapons.db` is taken from the System Reference Document 5.1 and used under the terms of the OGL v1.0a (see `OGL.md`).
+Data present in `packs/fantasy-ammo.db`, `packs/fantasy-armor.db`, `packs/fantasy-equipment.db`, and `packs/fantasy-weapons.db` is taken from the System Reference Document 5.1 and used under the terms of the OGL v1.0a, see `OGL.md`.
 
-Data in `packs/modern-ammo.db`, `packs/modern-armor.db`, `packs/modern-equipment.db`, and `packs/modern-weapons.db` is taken from the Modern System Reference Document and used under the terms of the OGL v1.0a (see `OGL.md`).
+Data present in `packs/modern-ammo.db`, `packs/modern-armor.db`, `packs/modern-equipment.db`, and `packs/modern-weapons.db` is taken from the Modern System Reference Document and used under the terms of the OGL v1.0a, see `OGL.md`.
 
 Images present under the `icons/` directory are distributed under the CC BY 3.0 license.
 
