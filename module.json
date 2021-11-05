@@ -54,6 +54,22 @@
       "path": "packs/modern-weapons.db",
       "system": "cyphersystem",
       "module": "cyphersystem-compendium"
+    },
+    {
+      "label": "Modern Ammo",
+      "entity": "Item",
+      "name": "modern-ammo",
+      "path": "packs/modern-ammo.db",
+      "system": "cyphersystem",
+      "module": "cyphersystem-compendium"
+    },
+    {
+      "label": "Meeples",
+      "entity": "Actor",
+      "name": "meeples",
+      "path": "packs/meeples.db",
+      "system": "cyphersystem",
+      "module": "cyphersystem-compendium"
     }
   ],
   "dependencies": [

@@ -5,15 +5,10 @@
 ![GitHub All Releases](https://img.shields.io/github/downloads/mrkwnzl/cyphersystem-compendium/total?style=flat-square)
 ![License](https://img.shields.io/github/license/mrkwnzl/cyphersystem-compendium?style=flat-square)
 
-This is a module for use in conjunction with the [Cypher System game system for Foundry VTT](https://foundryvtt.com/packages/cyphersystem/). The Cypher System Compendium expands the Cypher System game system with compendia full of equipment based on the System Reference Document, the Modern System Reference Document, and the System Reference Document 5.1.
+This is a module for use in conjunction with the [Cypher System game system for Foundry VTT](https://foundryvtt.com/packages/cyphersystem/). The Cypher System Compendium expands the Cypher System game system with compendia with useful resources. In detail, the Cypher System Compendium includes:
 
-## License
-
-Data in `packs/fantasy-ammo.db`, `packs/fantasy-armor.db`, `packs/fantasy-equipment.db`, and `packs/fantasy-weapons.db` is taken from the System Reference Document 5.1 and used under the terms of the OGL v1.0a, see `OGL.md`.
-
-Data in `packs/modern-ammo.db`, `packs/modern-armor.db`, `packs/modern-equipment.db`, and `packs/modern-weapons.db` is taken from the Modern System Reference Document and used under the terms of the OGL v1.0a, see `OGL.md`.
-
-The software component of this system is distributed under the MIT license.
+- **Items:** Ammo, armor, equipment, and weapons for fantasy and modern games. This equipment has been converted for Cyhpher from the System Reference Document 5.1 and the Modern System Reference Document.
+- **Meeples:** Generic NPC tokens in five color for levels 1 through 10 you can use if you quickly need more NPCs on your map.
 
 ## Support
 
@@ -51,15 +46,28 @@ Please use the images that ship with Foundry VTT or images you own (which are mo
 We try to follow the naming conventions of the Cypher System books.
 
 - **Names:** Only the first word is capitalized, unless it’s a proper name. Examples: “Dart thrower,” “Light armor,” “Colt Python.”
-
 - **Ranges:** Ranges of attacks are not capitalized, the word “range” is included in all ranges. Examples: “long range,” “50 m range.”
-
 - **Notes:** Notes are not capitalized, unless following a full stop. Usually, notes are separated by a comma.
+
+## Licenses
+
+- Cypher System game terms and any material owned by Monte Cook Games is used in accordance with the Fan Use Policy.
+- Data in `packs/fantasy-ammo.db`, `packs/fantasy-armor.db`, `packs/fantasy-equipment.db`, and `packs/fantasy-weapons.db` is taken from the System Reference Document 5.1 and used under the terms of the OGL v1.0a (see `OGL.md`).
+- Data in `packs/modern-ammo.db`, `packs/modern-armor.db`, `packs/modern-equipment.db`, and `packs/modern-weapons.db` is taken from the Modern System Reference Document and used under the terms of the OGL v1.0a (see `OGL.md`).
+- Images present under the `icons/` directory are distributed under the CC BY 3.0 license.
+- The software component of this system is distributed under the MIT license.
 
 ## Fan Use Policy
 
 *The Monte Cook Games logo, Numenera, and the Numenera logo are trademarks of Monte Cook Games, LLC in the U.S.A. and other countries. All Monte Cook Games characters and character names, and the distinctive likenesses thereof, are trademarks of Monte Cook Games, LLC. Content on this site or associated files derived from Monte Cook Games publications is © 2013-2019 Monte Cook Games, LLC. Monte Cook Games permits web sites and similar fan-created publications for their games, subject to the policy given at [https://www.montecookgames.com/fan-use-policy/](). The contents of this site are for personal, non-commercial use only. Monte Cook Games is not responsible for this site or any of the content, that did not originate directly from Monte Cook Games, on or in it. Use of Monte Cook Games’s trademarks and copyrighted materials anywhere on this site and its associated files should not be construed as a challenge to those trademarks or copyrights. Materials on this site may not be reproduced or distributed except with the permission of the site owner and in compliance with Monte Cook Games policy given at [https://www.montecookgames.com/fan-use-policy/]().*
 
-## Contributors
+## Credits
 
+### Graphics from game-icons.net
 
+All graphics under `icons/` are taken from [game-icons.net](https://game-icons.net).
+
+- Delapouite ([delapouite.com](https://delapouite.com/))
+- Lorc ([lorcblog.blogspot.com](https://lorcblog.blogspot.com/))
+- sbed ([opengameart.org](http://opengameart.org/content/95-game-icons))
+- Skoll ([game-icons.net](https://game-icons.net/))
