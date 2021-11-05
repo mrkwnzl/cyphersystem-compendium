@@ -51,11 +51,15 @@ We try to follow the naming conventions of the Cypher System books.
 
 ## Licenses
 
-- Cypher System game terms and any material owned by Monte Cook Games is used in accordance with the Fan Use Policy.
-- Data in `packs/fantasy-ammo.db`, `packs/fantasy-armor.db`, `packs/fantasy-equipment.db`, and `packs/fantasy-weapons.db` is taken from the System Reference Document 5.1 and used under the terms of the OGL v1.0a (see `OGL.md`).
-- Data in `packs/modern-ammo.db`, `packs/modern-armor.db`, `packs/modern-equipment.db`, and `packs/modern-weapons.db` is taken from the Modern System Reference Document and used under the terms of the OGL v1.0a (see `OGL.md`).
-- Images present under the `icons/` directory are distributed under the CC BY 3.0 license.
-- The software component of this system is distributed under the MIT license.
+Cypher System game terms and any material owned by Monte Cook Games is used in accordance with the Fan Use Policy.
+
+Data in `packs/fantasy-ammo.db`, `packs/fantasy-armor.db`, `packs/fantasy-equipment.db`, and `packs/fantasy-weapons.db` is taken from the System Reference Document 5.1 and used under the terms of the OGL v1.0a (see `OGL.md`).
+
+Data in `packs/modern-ammo.db`, `packs/modern-armor.db`, `packs/modern-equipment.db`, and `packs/modern-weapons.db` is taken from the Modern System Reference Document and used under the terms of the OGL v1.0a (see `OGL.md`).
+
+Images present under the `icons/` directory are distributed under the CC BY 3.0 license.
+
+The software component of this system is distributed under the MIT license.
 
 ## Fan Use Policy
 
