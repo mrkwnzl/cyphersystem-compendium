@@ -3,71 +3,191 @@
   "title": "Cypher System Compendium",
   "description": "A compendium pack for the Cypher System game System",
   "author": "Marko Wenzel",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "minimumCoreVersion": "0.8.5",
   "compatibleCoreVersion": "9",
   "packs": [
     {
-      "label": "Fantasy Armor",
+      "label": "Abilities",
       "entity": "Item",
-      "name": "fantasy-armor",
-      "path": "packs/fantasy-armor.db",
+      "name": "abilities",
+      "path": "packs/abilities.db",
       "system": "cyphersystem",
       "module": "cyphersystem-compendium"
     },
     {
-      "label": "Fantasy Equipment",
+      "label": "Ammo",
       "entity": "Item",
-      "name": "fantasy-equipment",
-      "path": "packs/fantasy-equipment.db",
+      "name": "ammo",
+      "path": "packs/ammo.db",
       "system": "cyphersystem",
       "module": "cyphersystem-compendium"
     },
     {
-      "label": "Fantasy Weapons",
+      "label": "Armor (fantasy)",
       "entity": "Item",
-      "name": "fantasy-weapons",
-      "path": "packs/fantasy-weapons.db",
+      "name": "armor-fantasy",
+      "path": "packs/armor-fantasy.db",
       "system": "cyphersystem",
       "module": "cyphersystem-compendium"
     },
     {
-      "label": "Fantasy Ammo",
+      "label": "Armor (modern)",
       "entity": "Item",
-      "name": "fantasy-ammo",
-      "path": "packs/fantasy-ammo.db",
+      "name": "armor-modern",
+      "path": "packs/armor-modern.db",
       "system": "cyphersystem",
       "module": "cyphersystem-compendium"
     },
     {
-      "label": "Modern Armor",
+      "label": "Armor (sci-fi, advanced)",
       "entity": "Item",
-      "name": "modern-armor",
-      "path": "packs/modern-armor.db",
+      "name": "armor-sci-fi-advanced",
+      "path": "packs/armor-sci-fi-advanced.db",
       "system": "cyphersystem",
       "module": "cyphersystem-compendium"
     },
     {
-      "label": "Modern Equipment",
+      "label": "Armor (sci-fi, fantastic)",
       "entity": "Item",
-      "name": "modern-equipment",
-      "path": "packs/modern-equipment.db",
+      "name": "armor-sci-fi-fantastic",
+      "path": "packs/armor-sci-fi-fantastic.db",
       "system": "cyphersystem",
       "module": "cyphersystem-compendium"
     },
     {
-      "label": "Modern Weapons",
+      "label": "Artifacts (fairy tale)",
       "entity": "Item",
-      "name": "modern-weapons",
-      "path": "packs/modern-weapons.db",
+      "name": "artifacts-fairy-tale",
+      "path": "packs/artifacts-fairy-tale.db",
       "system": "cyphersystem",
       "module": "cyphersystem-compendium"
     },
     {
-      "label": "Modern Ammo",
+      "label": "Artifacts (fantasy)",
       "entity": "Item",
-      "name": "modern-ammo",
-      "path": "packs/modern-ammo.db",
+      "name": "artifacts-fantasy",
+      "path": "packs/artifacts-fantasy.db",
+      "system": "cyphersystem",
+      "module": "cyphersystem-compendium"
+    },
+    {
+      "label": "Artifacts (horror)",
+      "entity": "Item",
+      "name": "artifacts-horror",
+      "path": "packs/artifacts-horror.db",
+      "system": "cyphersystem",
+      "module": "cyphersystem-compendium"
+    },
+    {
+      "label": "Artifacts (post-apocalyptic)",
+      "entity": "Item",
+      "name": "artifacts-post-apocalyptic",
+      "path": "packs/artifacts-post-apocalyptic.db",
+      "system": "cyphersystem",
+      "module": "cyphersystem-compendium"
+    },
+    {
+      "label": "Artifacts (sci-fi)",
+      "entity": "Item",
+      "name": "artifacts-sci-fi",
+      "path": "packs/artifacts-sci-fi.db",
+      "system": "cyphersystem",
+      "module": "cyphersystem-compendium"
+    },
+    {
+      "label": "Artifacts (superhero)",
+      "entity": "Item",
+      "name": "artifacts-superhero",
+      "path": "packs/artifacts-superhero.db",
+      "system": "cyphersystem",
+      "module": "cyphersystem-compendium"
+    },
+    {
+      "label": "Cyphers",
+      "entity": "Item",
+      "name": "cyphers",
+      "path": "packs/cyphers.db",
+      "system": "cyphersystem",
+      "module": "cyphersystem-compendium"
+    },
+    {
+      "label": "Cyphers (chaositech)",
+      "entity": "Item",
+      "name": "cyphers-chaositech",
+      "path": "packs/cyphers-chaositech.db",
+      "system": "cyphersystem",
+      "module": "cyphersystem-compendium"
+    },
+    {
+      "label": "Cyphers (fairy tale)",
+      "entity": "Item",
+      "name": "cyphers-fairy-tale",
+      "path": "packs/cyphers-fairy-tale.db",
+      "system": "cyphersystem",
+      "module": "cyphersystem-compendium"
+    },
+    {
+      "label": "Cyphers (fantasy)",
+      "entity": "Item",
+      "name": "cyphers-fantasy",
+      "path": "packs/cyphers-fantasy.db",
+      "system": "cyphersystem",
+      "module": "cyphersystem-compendium"
+    },
+    {
+      "label": "Cyphers (horror)",
+      "entity": "Item",
+      "name": "cyphers-horror",
+      "path": "packs/cyphers-horror.db",
+      "system": "cyphersystem",
+      "module": "cyphersystem-compendium"
+    },
+    {
+      "label": "Cyphers (power boost)",
+      "entity": "Item",
+      "name": "cyphers-power boost",
+      "path": "packs/cyphers-power boost.db",
+      "system": "cyphersystem",
+      "module": "cyphersystem-compendium"
+    },
+    {
+      "label": "Cyphers (subtle)",
+      "entity": "Item",
+      "name": "cyphers-subtle",
+      "path": "packs/cyphers-subtle.db",
+      "system": "cyphersystem",
+      "module": "cyphersystem-compendium"
+    },
+    {
+      "label": "Equipment (fantasy)",
+      "entity": "Item",
+      "name": "equipment-fantasy",
+      "path": "packs/equipment-fantasy.db",
+      "system": "cyphersystem",
+      "module": "cyphersystem-compendium"
+    },
+    {
+      "label": "Equipment (modern)",
+      "entity": "Item",
+      "name": "equipment-modern",
+      "path": "packs/equipment-modern.db",
+      "system": "cyphersystem",
+      "module": "cyphersystem-compendium"
+    },
+    {
+      "label": "Equipment (sci-fi, advanced)",
+      "entity": "Item",
+      "name": "equipment-sci-fi-advanced",
+      "path": "packs/equipment-sci-fi-advanced.db",
+      "system": "cyphersystem",
+      "module": "cyphersystem-compendium"
+    },
+    {
+      "label": "Equipment (sci-fi, fantastic)",
+      "entity": "Item",
+      "name": "equipment-sci-fi-fantastic",
+      "path": "packs/equipment-sci-fi-fantastic.db",
       "system": "cyphersystem",
       "module": "cyphersystem-compendium"
     },
@@ -78,17 +198,62 @@
       "path": "packs/meeples.db",
       "system": "cyphersystem",
       "module": "cyphersystem-compendium"
+    },
+    {
+      "label": "Scenes",
+      "entity": "Scene",
+      "name": "scenes",
+      "path": "packs/scenes.db",
+      "system": "cyphersystem",
+      "module": "cyphersystem-compendium"
+    },
+    {
+      "label": "Weapons (fantasy)",
+      "entity": "Item",
+      "name": "weapons-fantasy",
+      "path": "packs/weapons-fantasy.db",
+      "system": "cyphersystem",
+      "module": "cyphersystem-compendium"
+    },
+    {
+      "label": "Weapons (modern)",
+      "entity": "Item",
+      "name": "weapons-modern",
+      "path": "packs/weapons-modern.db",
+      "system": "cyphersystem",
+      "module": "cyphersystem-compendium"
+    },
+    {
+      "label": "Weapons (sci-fi, advanced)",
+      "entity": "Item",
+      "name": "weapons-sci-fi-advanced",
+      "path": "packs/weapons-sci-fi-advanced.db",
+      "system": "cyphersystem",
+      "module": "cyphersystem-compendium"
+    },
+    {
+      "label": "Weapons (sci-fi, fantastic)",
+      "entity": "Item",
+      "name": "weapons-sci-fi-fantastic",
+      "path": "packs/weapons-sci-fi-fantastic.db",
+      "system": "cyphersystem",
+      "module": "cyphersystem-compendium"
     }
   ],
   "dependencies": [
     {
       "name": "cyphersystem",
       "type": "system",
-      "manifest": "https://raw.githubusercontent.com/mrkwnzl/cyphersystem-foundryvtt/master/system.json"
+      "manifest": "https://raw.githubusercontent.com/mrkwnzl/cyphersystem-foundryvtt/main/system.json"
+    },
+    {
+      "name": "pdfoundry",
+      "type": "module",
+      "manifest": "https://raw.githubusercontent.com/Djphoenix719/PDFoundry/master/module.json"
     }
   ],
   "url": "https://github.com/mrkwnzl/cyphersystem-compendium",
   "manifest": "https://raw.githubusercontent.com/mrkwnzl/cyphersystem-compendium/main/module.json",
-  "download": "https://github.com/mrkwnzl/cyphersystem-compendium/releases/download/v1.0.0/release.zip",
+  "download": "https://github.com/mrkwnzl/cyphersystem-compendium/releases/download/v2.0.0/release.zip",
   "license": "LICENSE.md"
 }
