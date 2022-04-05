@@ -5,7 +5,7 @@
 ![GitHub All Releases](https://img.shields.io/github/downloads/mrkwnzl/cyphersystem-compendium/total?style=flat-square)
 ![License](https://img.shields.io/github/license/mrkwnzl/cyphersystem-compendium?style=flat-square)
 
-This is a module for use in conjunction with the [Cypher System game system for Foundry VTT](https://foundryvtt.com/packages/cyphersystem/). The Cypher System Compendium expands the Cypher System game system with compendia full of useful resources. The following compendia are included:
+This is a module for use in conjunction with the [Cypher System game system for Foundry VTT](https://foundryvtt.com/packages/cyphersystem/). The Cypher System Compendium expands the Cypher System game system with compendia with pre-made items, actors, and scenes. The following compendia are included:
 
 - **Abilities**, including the Pool point cost.
 - **Ammo**.
@@ -14,7 +14,7 @@ This is a module for use in conjunction with the [Cypher System game system for 
 - **Cyphers**, sorted by genre, including the levels of the cyphers.
 - **Equipment**, sorted by genre.
 - **Meeples**, generic NPC tokens, in five colors for levels 1 through 10 with the corresponding default values, which you can use if you quickly need more NPCs on your map.
-- **Scenes**, made by smaug18#2066.
+- **Scenes** with home scenes that can be used in theater-of-the-mind style games. There are different areas to sort your tokens on the scene.
 - **Weapons**, sorted by genre and including damage, weapon type, and keywords for properties (such as *rapid-fire weapon*).
 
 No descriptive text or rules for the items is included, only game terms and associated numerical values. All items from the MCG published books come with page references, which turn into clickable links if the corresponding PDF is created as a journal entry within Foundry using [PDFoundry](https://foundryvtt.com/packages/pdfoundry/).
@@ -94,4 +94,4 @@ Images under `img/scenes/` are taken from [Pixabay](https://pixabay.com).
 - [prettysleepy1](https://pixabay.com/users/prettysleepy1-2855492/)
 - [Schmid-Reportagen](https://pixabay.com/users/schmid-reportagen-646138/)
 
-`img/overlays/home-scene_overlay.png` by smaug18#2066.
+`img/overlays/smaug18_home-scene_overlay.png` by smaug18#2066.
