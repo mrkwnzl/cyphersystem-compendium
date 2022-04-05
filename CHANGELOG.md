@@ -6,9 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## [2.0.0] - 2022-04-05
 ### Added
-- Added compendia for sci-fi equipment, weapons, armor, and ammo.
-- Added compendia for cyphers.
-- Added a compendium for abilities.
+- Added compendia for abilities, ammo, armor, cyphers, equipment, and weapons for fantasy, modern, and sci-fi games. Sources are Cypher System Rulebook, Claim the Sky, First Responders, Godforsaken, Ptolus, Stay Alive, The Stars Are Fire, and We Are All Mad Here. Each item includes a page reference, which will be a workable link to the PDF if the PDFs are setup correctly with PDFoundry. No descriptive text is included.
 - Added Home Scenes done by smaug18#2066, including a template scene for which you can use your own background image.
 
 ### Changed
