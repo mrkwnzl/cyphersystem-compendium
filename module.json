@@ -3,7 +3,7 @@
   "title": "Cypher System Compendium",
   "description": "A compendium pack for the Cypher System game System",
   "author": "Marko Wenzel",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "minimumCoreVersion": "0.8.5",
   "compatibleCoreVersion": "9",
   "packs": [
@@ -24,7 +24,7 @@
       "module": "cyphersystem-compendium"
     },
     {
-      "label": "Armor (fantasy)",
+      "label": "Armor (Fantasy)",
       "entity": "Item",
       "name": "armor-fantasy",
       "path": "packs/armor-fantasy.db",
@@ -32,7 +32,7 @@
       "module": "cyphersystem-compendium"
     },
     {
-      "label": "Armor (modern)",
+      "label": "Armor (Modern)",
       "entity": "Item",
       "name": "armor-modern",
       "path": "packs/armor-modern.db",
@@ -40,7 +40,7 @@
       "module": "cyphersystem-compendium"
     },
     {
-      "label": "Armor (sci-fi, advanced)",
+      "label": "Armor (Sci-fi, Advanced)",
       "entity": "Item",
       "name": "armor-sci-fi-advanced",
       "path": "packs/armor-sci-fi-advanced.db",
@@ -48,7 +48,7 @@
       "module": "cyphersystem-compendium"
     },
     {
-      "label": "Armor (sci-fi, fantastic)",
+      "label": "Armor (Sci-fi, Fantastic)",
       "entity": "Item",
       "name": "armor-sci-fi-fantastic",
       "path": "packs/armor-sci-fi-fantastic.db",
@@ -56,7 +56,7 @@
       "module": "cyphersystem-compendium"
     },
     {
-      "label": "Artifacts (fairy tale)",
+      "label": "Artifacts (Fairy Tale)",
       "entity": "Item",
       "name": "artifacts-fairy-tale",
       "path": "packs/artifacts-fairy-tale.db",
@@ -64,7 +64,7 @@
       "module": "cyphersystem-compendium"
     },
     {
-      "label": "Artifacts (fantasy)",
+      "label": "Artifacts (Fantasy)",
       "entity": "Item",
       "name": "artifacts-fantasy",
       "path": "packs/artifacts-fantasy.db",
@@ -72,7 +72,7 @@
       "module": "cyphersystem-compendium"
     },
     {
-      "label": "Artifacts (horror)",
+      "label": "Artifacts (Horror)",
       "entity": "Item",
       "name": "artifacts-horror",
       "path": "packs/artifacts-horror.db",
@@ -80,7 +80,7 @@
       "module": "cyphersystem-compendium"
     },
     {
-      "label": "Artifacts (post-apocalyptic)",
+      "label": "Artifacts (Post-Apocalyptic)",
       "entity": "Item",
       "name": "artifacts-post-apocalyptic",
       "path": "packs/artifacts-post-apocalyptic.db",
@@ -88,7 +88,7 @@
       "module": "cyphersystem-compendium"
     },
     {
-      "label": "Artifacts (sci-fi)",
+      "label": "Artifacts (Sci-fi)",
       "entity": "Item",
       "name": "artifacts-sci-fi",
       "path": "packs/artifacts-sci-fi.db",
@@ -96,7 +96,7 @@
       "module": "cyphersystem-compendium"
     },
     {
-      "label": "Artifacts (superhero)",
+      "label": "Artifacts (Superhero)",
       "entity": "Item",
       "name": "artifacts-superhero",
       "path": "packs/artifacts-superhero.db",
@@ -112,7 +112,7 @@
       "module": "cyphersystem-compendium"
     },
     {
-      "label": "Cyphers (chaositech)",
+      "label": "Cyphers (Chaositech)",
       "entity": "Item",
       "name": "cyphers-chaositech",
       "path": "packs/cyphers-chaositech.db",
@@ -120,7 +120,7 @@
       "module": "cyphersystem-compendium"
     },
     {
-      "label": "Cyphers (fairy tale)",
+      "label": "Cyphers (Fairy Tale)",
       "entity": "Item",
       "name": "cyphers-fairy-tale",
       "path": "packs/cyphers-fairy-tale.db",
@@ -128,7 +128,7 @@
       "module": "cyphersystem-compendium"
     },
     {
-      "label": "Cyphers (fantasy)",
+      "label": "Cyphers (Fantasy)",
       "entity": "Item",
       "name": "cyphers-fantasy",
       "path": "packs/cyphers-fantasy.db",
@@ -136,7 +136,7 @@
       "module": "cyphersystem-compendium"
     },
     {
-      "label": "Cyphers (horror)",
+      "label": "Cyphers (Horror)",
       "entity": "Item",
       "name": "cyphers-horror",
       "path": "packs/cyphers-horror.db",
@@ -144,7 +144,7 @@
       "module": "cyphersystem-compendium"
     },
     {
-      "label": "Cyphers (power boost)",
+      "label": "Cyphers (Power Boost)",
       "entity": "Item",
       "name": "cyphers-power boost",
       "path": "packs/cyphers-power boost.db",
@@ -160,7 +160,7 @@
       "module": "cyphersystem-compendium"
     },
     {
-      "label": "Cyphers (subtle)",
+      "label": "Cyphers (Subtle)",
       "entity": "Item",
       "name": "cyphers-subtle",
       "path": "packs/cyphers-subtle.db",
@@ -168,7 +168,7 @@
       "module": "cyphersystem-compendium"
     },
     {
-      "label": "Equipment (fantasy)",
+      "label": "Equipment (Fantasy)",
       "entity": "Item",
       "name": "equipment-fantasy",
       "path": "packs/equipment-fantasy.db",
@@ -176,7 +176,7 @@
       "module": "cyphersystem-compendium"
     },
     {
-      "label": "Equipment (modern)",
+      "label": "Equipment (Modern)",
       "entity": "Item",
       "name": "equipment-modern",
       "path": "packs/equipment-modern.db",
@@ -184,7 +184,7 @@
       "module": "cyphersystem-compendium"
     },
     {
-      "label": "Equipment (sci-fi, advanced)",
+      "label": "Equipment (Sci-fi, Advanced)",
       "entity": "Item",
       "name": "equipment-sci-fi-advanced",
       "path": "packs/equipment-sci-fi-advanced.db",
@@ -192,7 +192,7 @@
       "module": "cyphersystem-compendium"
     },
     {
-      "label": "Equipment (sci-fi, fantastic)",
+      "label": "Equipment (Sci-fi, Fantastic)",
       "entity": "Item",
       "name": "equipment-sci-fi-fantastic",
       "path": "packs/equipment-sci-fi-fantastic.db",
@@ -208,6 +208,14 @@
       "module": "cyphersystem-compendium"
     },
     {
+      "label": "Power Shifts",
+      "entity": "Item",
+      "name": "power-shifts",
+      "path": "packs/power-shifts.db",
+      "system": "cyphersystem",
+      "module": "cyphersystem-compendium"
+    },
+    {
       "label": "Scenes",
       "entity": "Scene",
       "name": "scenes",
@@ -216,7 +224,7 @@
       "module": "cyphersystem-compendium"
     },
     {
-      "label": "Weapons (fantasy)",
+      "label": "Weapons (Fantasy)",
       "entity": "Item",
       "name": "weapons-fantasy",
       "path": "packs/weapons-fantasy.db",
@@ -224,7 +232,7 @@
       "module": "cyphersystem-compendium"
     },
     {
-      "label": "Weapons (modern)",
+      "label": "Weapons (Modern)",
       "entity": "Item",
       "name": "weapons-modern",
       "path": "packs/weapons-modern.db",
@@ -232,7 +240,7 @@
       "module": "cyphersystem-compendium"
     },
     {
-      "label": "Weapons (sci-fi, advanced)",
+      "label": "Weapons (Sci-fi, Advanced)",
       "entity": "Item",
       "name": "weapons-sci-fi-advanced",
       "path": "packs/weapons-sci-fi-advanced.db",
@@ -240,7 +248,7 @@
       "module": "cyphersystem-compendium"
     },
     {
-      "label": "Weapons (sci-fi, fantastic)",
+      "label": "Weapons (Sci-fi, Fantastic)",
       "entity": "Item",
       "name": "weapons-sci-fi-fantastic",
       "path": "packs/weapons-sci-fi-fantastic.db",
@@ -262,6 +270,6 @@
   ],
   "url": "https://github.com/mrkwnzl/cyphersystem-compendium",
   "manifest": "https://raw.githubusercontent.com/mrkwnzl/cyphersystem-compendium/main/module.json",
-  "download": "https://github.com/mrkwnzl/cyphersystem-compendium/releases/download/v2.1.0/release.zip",
+  "download": "https://github.com/mrkwnzl/cyphersystem-compendium/releases/download/v2.2.0/release.zip",
   "license": "LICENSE.md"
 }

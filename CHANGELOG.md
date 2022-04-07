@@ -4,6 +4,13 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.2.0] - 2022-04-07
+## Added
+- Compendium for power shifts.
+
+## Fixed
+- Armor from Ptolus now has the correct reference.
+
 ## [2.1.0] - 2022-04-07
 ## Added
 - New Ptolus cypher compendium, which duplicates the regular cypher compendium, but with both the Ptolus and regular names. Cyphers that come with a specific level range have this level range in the level field, but the description still gives the general cypher level range. For example, the potion of rejunivation has a level range of 3–4, so it has a level of 1d2+2, while the rejuvinator cypher has a level of 1d6+2. Both are included in the item.
