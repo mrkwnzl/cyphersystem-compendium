@@ -56,6 +56,14 @@
       "module": "cyphersystem-compendium"
     },
     {
+      "label": "Artifacts (Banes)",
+      "entity": "Item",
+      "name": "artifacts-banes",
+      "path": "packs/artifacts-banes.db",
+      "system": "cyphersystem",
+      "module": "cyphersystem-compendium"
+    },
+    {
       "label": "Artifacts (Fairy Tale)",
       "entity": "Item",
       "name": "artifacts-fairy-tale",
@@ -108,6 +116,14 @@
       "entity": "Item",
       "name": "cyphers",
       "path": "packs/cyphers.db",
+      "system": "cyphersystem",
+      "module": "cyphersystem-compendium"
+    },
+    {
+      "label": "Cyphers (Banes)",
+      "entity": "Item",
+      "name": "cyphers-banes",
+      "path": "packs/cyphers-banes.db",
       "system": "cyphersystem",
       "module": "cyphersystem-compendium"
     },
