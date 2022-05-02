@@ -37,6 +37,8 @@ There’s no setup needed to use the module, but if you want the references to b
 | Godforsaken            | 2           |
 | Ptolus                 | 2           |
 | Stay Alive             | 2           |
+| The Banewarrens        | 2           |
+| The Origin             | 2           |
 | The Stars Are Fire     | 2           |
 | We Are All Mad Here    | 2           |
 
