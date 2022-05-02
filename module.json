@@ -3,7 +3,7 @@
   "title": "Cypher System Compendium",
   "description": "A compendium pack for the Cypher System game System",
   "author": "Marko Wenzel",
-  "version": "2.3.0",
+  "version": "2.2.1",
   "minimumCoreVersion": "0.8.5",
   "compatibleCoreVersion": "9",
   "packs": [
@@ -278,6 +278,6 @@
   ],
   "url": "https://github.com/mrkwnzl/cyphersystem-compendium",
   "manifest": "https://raw.githubusercontent.com/mrkwnzl/cyphersystem-compendium/main/module.json",
-  "download": "https://github.com/mrkwnzl/cyphersystem-compendium/releases/download/v2.3.0/release.zip",
+  "download": "https://github.com/mrkwnzl/cyphersystem-compendium/releases/download/v2.2.1/release.zip",
   "license": "LICENSE.md"
 }
