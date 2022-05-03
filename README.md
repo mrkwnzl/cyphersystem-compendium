@@ -27,7 +27,7 @@ There’s no setup needed to use the module, but if you want the references to b
 
 1. Make sure that you name the journal entry *exactly* as shown in the table below. The title is case sensitive.
 
-2. All MCG PDFs need a page offset of 2.
+2. Almost all MCG PDFs need a page offset of 2. See the table for details:
 
 | Title                  | Page Offset |
 | ---------------------- | :---------: |
@@ -37,7 +37,7 @@ There’s no setup needed to use the module, but if you want the references to b
 | Godforsaken            | 2           |
 | Ptolus                 | 2           |
 | Stay Alive             | 2           |
-| The Banewarrens        | 2           |
+| The Banewarrens        | 0           |
 | The Origin             | 2           |
 | The Stars Are Fire     | 2           |
 | We Are All Mad Here    | 2           |
