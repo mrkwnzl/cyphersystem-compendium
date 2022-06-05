@@ -6,11 +6,18 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## [2.3.3] - 2022-06-05
 ## Fixed
-- Fixed some typos in the Cypher (Ptolus) compendium.
+- Fixed a typo in the Cypher compendium:
+  - "Rejunivator" -> "Rejuvenator"
+- Fixed some typos in the Cypher (Ptolus) compendium:
+  - "Potion of rejunivation || Rejunivator" -> "Potion of rejuvenation || Rejuvenator"
+  - "Potion of greater rejunivation || Rejunivator" -> "Potion of greater rejuvenation || Rejuvenator"
+  - "Potion of superior rejunivation || Rejunivator" -> "Potion of superior rejuvenation || Rejuvenator"
 
 ## [2.3.2] - 2022-06-04
 ## Fixed
-- Fixed some typos in the Cypher (Ptolus) compendium.
+- Fixed some typos in the Cypher (Ptolus) compendium:
+  - "Potion of egale eye || Eagleseye" -> "Potion of egale eye || Eagleseye"
+  - "Potion of mage hands || Manipulation beam" -> "Potion of mage hand || Manipulation beam"
 
 ## [2.3.1] - 2022-05-16
 ## Fixed
