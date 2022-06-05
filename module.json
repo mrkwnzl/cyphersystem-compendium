@@ -64,6 +64,14 @@
       "module": "cyphersystem-compendium"
     },
     {
+      "label": "Artifacts (Chaositech)",
+      "entity": "Item",
+      "name": "artifacts-chaositech",
+      "path": "packs/artifacts-chaositech.db",
+      "system": "cyphersystem",
+      "module": "cyphersystem-compendium"
+    },
+    {
       "label": "Artifacts (Fairy Tale)",
       "entity": "Item",
       "name": "artifacts-fairy-tale",
