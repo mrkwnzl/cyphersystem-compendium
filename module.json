@@ -1,299 +1,201 @@
 {
-  "name": "cyphersystem-compendium",
-  "title": "Cypher System Compendium",
-  "description": "A compendium pack for the Cypher System game System",
-  "author": "Marko Wenzel",
-  "version": "2.3.3",
-  "minimumCoreVersion": "0.8.5",
-  "compatibleCoreVersion": "9",
+  "title": "Cypher SRD Compendium",
+  "description": "A compendium pack for the Cypher System game system",
+  "version": "[version]",
   "packs": [
     {
       "label": "Abilities",
-      "entity": "Item",
       "name": "abilities",
       "path": "packs/abilities.db",
       "system": "cyphersystem",
-      "module": "cyphersystem-compendium"
+      "type": "Item",
+      "private": false
     },
     {
       "label": "Ammo",
-      "entity": "Item",
       "name": "ammo",
       "path": "packs/ammo.db",
       "system": "cyphersystem",
-      "module": "cyphersystem-compendium"
+      "type": "Item",
+      "private": false
     },
     {
-      "label": "Armor (Fantasy)",
-      "entity": "Item",
+      "label": "Fantasy Armor",
       "name": "armor-fantasy",
       "path": "packs/armor-fantasy.db",
       "system": "cyphersystem",
-      "module": "cyphersystem-compendium"
+      "type": "Item",
+      "private": false
     },
     {
-      "label": "Armor (Modern)",
-      "entity": "Item",
+      "label": "Modern Armor",
       "name": "armor-modern",
       "path": "packs/armor-modern.db",
       "system": "cyphersystem",
-      "module": "cyphersystem-compendium"
+      "type": "Item",
+      "private": false
     },
     {
-      "label": "Armor (Sci-fi, Advanced)",
-      "entity": "Item",
-      "name": "armor-sci-fi-advanced",
-      "path": "packs/armor-sci-fi-advanced.db",
+      "label": "Sci-fi Armor",
+      "name": "armor-sci-fi",
+      "path": "packs/armor-sci-fi.db",
       "system": "cyphersystem",
-      "module": "cyphersystem-compendium"
+      "type": "Item",
+      "private": false
     },
     {
-      "label": "Armor (Sci-fi, Fantastic)",
-      "entity": "Item",
-      "name": "armor-sci-fi-fantastic",
-      "path": "packs/armor-sci-fi-fantastic.db",
-      "system": "cyphersystem",
-      "module": "cyphersystem-compendium"
-    },
-    {
-      "label": "Artifacts (Banes)",
-      "entity": "Item",
-      "name": "artifacts-banes",
-      "path": "packs/artifacts-banes.db",
-      "system": "cyphersystem",
-      "module": "cyphersystem-compendium"
-    },
-    {
-      "label": "Artifacts (Fairy Tale)",
-      "entity": "Item",
-      "name": "artifacts-fairy-tale",
-      "path": "packs/artifacts-fairy-tale.db",
-      "system": "cyphersystem",
-      "module": "cyphersystem-compendium"
-    },
-    {
-      "label": "Artifacts (Fantasy)",
-      "entity": "Item",
+      "label": "Fantasy Artifacts",
       "name": "artifacts-fantasy",
       "path": "packs/artifacts-fantasy.db",
       "system": "cyphersystem",
-      "module": "cyphersystem-compendium"
+      "type": "Item",
+      "private": false
     },
     {
-      "label": "Artifacts (Horror)",
-      "entity": "Item",
+      "label": "Horror Artifacts",
       "name": "artifacts-horror",
       "path": "packs/artifacts-horror.db",
       "system": "cyphersystem",
-      "module": "cyphersystem-compendium"
+      "type": "Item",
+      "private": false
     },
     {
-      "label": "Artifacts (Post-Apocalyptic)",
-      "entity": "Item",
+      "label": "Post-Apocalyptic Artifacts",
       "name": "artifacts-post-apocalyptic",
       "path": "packs/artifacts-post-apocalyptic.db",
       "system": "cyphersystem",
-      "module": "cyphersystem-compendium"
+      "type": "Item",
+      "private": false
     },
     {
-      "label": "Artifacts (Sci-fi)",
-      "entity": "Item",
+      "label": "Sci-fi Artifacts",
       "name": "artifacts-sci-fi",
       "path": "packs/artifacts-sci-fi.db",
       "system": "cyphersystem",
-      "module": "cyphersystem-compendium"
+      "type": "Item",
+      "private": false
     },
     {
-      "label": "Artifacts (Superhero)",
-      "entity": "Item",
+      "label": "Superhero Artifacts",
       "name": "artifacts-superhero",
       "path": "packs/artifacts-superhero.db",
       "system": "cyphersystem",
-      "module": "cyphersystem-compendium"
+      "type": "Item",
+      "private": false
     },
     {
       "label": "Cyphers",
-      "entity": "Item",
       "name": "cyphers",
       "path": "packs/cyphers.db",
       "system": "cyphersystem",
-      "module": "cyphersystem-compendium"
-    },
-    {
-      "label": "Cyphers (Banes)",
-      "entity": "Item",
-      "name": "cyphers-banes",
-      "path": "packs/cyphers-banes.db",
-      "system": "cyphersystem",
-      "module": "cyphersystem-compendium"
-    },
-    {
-      "label": "Cyphers (Chaositech)",
-      "entity": "Item",
-      "name": "cyphers-chaositech",
-      "path": "packs/cyphers-chaositech.db",
-      "system": "cyphersystem",
-      "module": "cyphersystem-compendium"
-    },
-    {
-      "label": "Cyphers (Divergent Timeline)",
-      "entity": "Item",
-      "name": "cyphers-divergent-timeline",
-      "path": "packs/cyphers-divergent-timeline.db",
-      "system": "cyphersystem",
-      "module": "cyphersystem-compendium"
-    },
-    {
-      "label": "Cyphers (Fairy Tale)",
-      "entity": "Item",
-      "name": "cyphers-fairy-tale",
-      "path": "packs/cyphers-fairy-tale.db",
-      "system": "cyphersystem",
-      "module": "cyphersystem-compendium"
-    },
-    {
-      "label": "Cyphers (Fantasy)",
-      "entity": "Item",
-      "name": "cyphers-fantasy",
-      "path": "packs/cyphers-fantasy.db",
-      "system": "cyphersystem",
-      "module": "cyphersystem-compendium"
-    },
-    {
-      "label": "Cyphers (Horror)",
-      "entity": "Item",
-      "name": "cyphers-horror",
-      "path": "packs/cyphers-horror.db",
-      "system": "cyphersystem",
-      "module": "cyphersystem-compendium"
+      "type": "Item",
+      "private": false
     },
     {
       "label": "Cyphers (Power Boost)",
-      "entity": "Item",
-      "name": "cyphers-power boost",
-      "path": "packs/cyphers-power boost.db",
+      "name": "cyphers-power-boost",
+      "path": "packs/cyphers-power-boost.db",
       "system": "cyphersystem",
-      "module": "cyphersystem-compendium"
+      "type": "Item",
+      "private": false
     },
     {
-      "label": "Cyphers (Ptolus)",
-      "entity": "Item",
-      "name": "cyphers-ptolus",
-      "path": "packs/cyphers-ptolus.db",
-      "system": "cyphersystem",
-      "module": "cyphersystem-compendium"
-    },
-    {
-      "label": "Cyphers (Subtle)",
-      "entity": "Item",
-      "name": "cyphers-subtle",
-      "path": "packs/cyphers-subtle.db",
-      "system": "cyphersystem",
-      "module": "cyphersystem-compendium"
-    },
-    {
-      "label": "Equipment (Fantasy)",
-      "entity": "Item",
+      "label": "Fantasy Equipment",
       "name": "equipment-fantasy",
       "path": "packs/equipment-fantasy.db",
       "system": "cyphersystem",
-      "module": "cyphersystem-compendium"
+      "type": "Item",
+      "private": false
     },
     {
-      "label": "Equipment (Modern)",
-      "entity": "Item",
+      "label": "Modern Equipment",
       "name": "equipment-modern",
       "path": "packs/equipment-modern.db",
       "system": "cyphersystem",
-      "module": "cyphersystem-compendium"
+      "type": "Item",
+      "private": false
     },
     {
-      "label": "Equipment (Sci-fi, Advanced)",
-      "entity": "Item",
-      "name": "equipment-sci-fi-advanced",
-      "path": "packs/equipment-sci-fi-advanced.db",
+      "label": "Sci-fi Equipment",
+      "name": "equipment-sci-fi",
+      "path": "packs/equipment-sci-fi.db",
       "system": "cyphersystem",
-      "module": "cyphersystem-compendium"
-    },
-    {
-      "label": "Equipment (Sci-fi, Fantastic)",
-      "entity": "Item",
-      "name": "equipment-sci-fi-fantastic",
-      "path": "packs/equipment-sci-fi-fantastic.db",
-      "system": "cyphersystem",
-      "module": "cyphersystem-compendium"
+      "type": "Item",
+      "private": false
     },
     {
       "label": "Meeples",
-      "entity": "Actor",
       "name": "meeples",
       "path": "packs/meeples.db",
       "system": "cyphersystem",
-      "module": "cyphersystem-compendium"
+      "type": "Actor",
+      "private": false
     },
     {
       "label": "Power Shifts",
-      "entity": "Item",
       "name": "power-shifts",
       "path": "packs/power-shifts.db",
       "system": "cyphersystem",
-      "module": "cyphersystem-compendium"
+      "type": "Item",
+      "private": false
     },
     {
       "label": "Scenes",
-      "entity": "Scene",
       "name": "scenes",
       "path": "packs/scenes.db",
       "system": "cyphersystem",
-      "module": "cyphersystem-compendium"
+      "type": "Scene",
+      "private": false
     },
     {
-      "label": "Weapons (Fantasy)",
-      "entity": "Item",
+      "label": "Fantasy Weapons",
       "name": "weapons-fantasy",
       "path": "packs/weapons-fantasy.db",
       "system": "cyphersystem",
-      "module": "cyphersystem-compendium"
+      "type": "Item",
+      "private": false
     },
     {
-      "label": "Weapons (Modern)",
-      "entity": "Item",
+      "label": "Modern Weapons",
       "name": "weapons-modern",
       "path": "packs/weapons-modern.db",
       "system": "cyphersystem",
-      "module": "cyphersystem-compendium"
+      "type": "Item",
+      "private": false
     },
     {
-      "label": "Weapons (Sci-fi, Advanced)",
-      "entity": "Item",
-      "name": "weapons-sci-fi-advanced",
-      "path": "packs/weapons-sci-fi-advanced.db",
+      "label": "Sci-fi Weapons",
+      "name": "weapons-sci-fi",
+      "path": "packs/weapons-sci-fi.db",
       "system": "cyphersystem",
-      "module": "cyphersystem-compendium"
-    },
-    {
-      "label": "Weapons (Sci-fi, Fantastic)",
-      "entity": "Item",
-      "name": "weapons-sci-fi-fantastic",
-      "path": "packs/weapons-sci-fi-fantastic.db",
-      "system": "cyphersystem",
-      "module": "cyphersystem-compendium"
-    }
-  ],
-  "dependencies": [
-    {
-      "name": "cyphersystem",
-      "type": "system",
-      "manifest": "https://raw.githubusercontent.com/mrkwnzl/cyphersystem-foundryvtt/main/system.json"
-    },
-    {
-      "name": "pdfoundry",
-      "type": "module",
-      "manifest": "https://raw.githubusercontent.com/Djphoenix719/PDFoundry/master/module.json"
+      "type": "Item",
+      "private": false
     }
   ],
   "url": "https://github.com/mrkwnzl/cyphersystem-compendium",
-  "manifest": "https://raw.githubusercontent.com/mrkwnzl/cyphersystem-compendium/main/module.json",
-  "download": "https://github.com/mrkwnzl/cyphersystem-compendium/releases/download/v2.3.3/release.zip",
-  "license": "LICENSE.md"
+  "manifest": "[manifest]",
+  "download": "[download]",
+  "license": "LICENSE.md",
+  "id": "cyphersystem-compendium",
+  "authors": [
+    {
+      "name": "Marko Wenzel"
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "cyphersystem",
+        "type": "system",
+        "manifest": "https://raw.githubusercontent.com/mrkwnzl/cyphersystem-foundryvtt/main/system.json",
+        "compatibility": {}
+      }
+    ]
+  },
+  "compatibility": {
+    "minimum": "0.8.5",
+    "verified": "10"
+  },
+  "name": "cyphersystem-compendium",
+  "minimumCoreVersion": "0.8.5"
 }
