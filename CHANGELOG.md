@@ -4,8 +4,15 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.0.0] - 2022-07-28
+### Changed
+- Changed the module to be the Cypher SRD Compendium. It now includes all abilities, cyphers, artifacty, and equipment from the CSRD.
+
+### Removed
+- Anything not in the CSRD has been removed with two exceptions of two compendia: (1) Meeples, and (2) Scenes. If you want to keep anything, you need to import that into your world.
+
 ## [2.3.3] - 2022-06-05
-## Fixed
+### Fixed
 - Fixed a typo in the Cypher compendium:
   - "Rejunivator" -> "Rejuvenator"
 - Fixed some typos in the Cypher (Ptolus) compendium:
@@ -14,36 +21,36 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
   - "Potion of superior rejunivation || Rejunivator" -> "Potion of superior rejuvenation || Rejuvenator"
 
 ## [2.3.2] - 2022-06-04
-## Fixed
+### Fixed
 - Fixed some typos in the Cypher (Ptolus) compendium:
   - "Potion of egale eye || Eagleseye" -> "Potion of egale eye || Eagleseye"
   - "Potion of mage hands || Manipulation beam" -> "Potion of mage hand || Manipulation beam"
 
 ## [2.3.1] - 2022-05-16
-## Fixed
+### Fixed
 - Fixed missing Nightmare and Death Touch abilities.
 - Deleted duplicate Flex Skill ability and corrected source.
 
 ## [2.3.0] - 2022-05-02
-## Added
+### Added
 - Added cypher and artifact compendia for The Origin and The Banewarrens.
 
 ## [2.2.1] - 2022-04-13
-## Fixed
+### Fixed
 - Fixed some typos in the Cyphers (Ptolus) compendium.
 
 ## [2.2.0] - 2022-04-07
-## Added
+### Added
 - Compendium for power shifts.
 
-## Fixed
+### Fixed
 - Armor from Ptolus now has the correct reference.
 
 ## [2.1.0] - 2022-04-07
-## Added
+### Added
 - New Ptolus cypher compendium, which duplicates the regular cypher compendium, but with both the Ptolus and regular names. Cyphers that come with a specific level range have this level range in the level field, but the description still gives the general cypher level range. For example, the potion of rejunivation has a level range of 3–4, so it has a level of 1d2+2, while the rejuvinator cypher has a level of 1d6+2. Both are included in the item.
 
-## Fixed
+### Fixed
 - Added missing force screen projector cypher.
 
 ## [2.0.3] - 2022-04-06
