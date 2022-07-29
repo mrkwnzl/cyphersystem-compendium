@@ -1,4 +1,4 @@
-# Cypher System Compendium
+# Cypher SRD Compendium
 
 ![GitHub Latest Release](https://img.shields.io/github/release/mrkwnzl/cyphersystem-compendium?style=flat-square)
 ![GitHub Downloads Latest](https://img.shields.io/github/downloads/mrkwnzl/cyphersystem-compendium/latest/total?style=flat-square)
