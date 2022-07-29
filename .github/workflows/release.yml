@@ -47,5 +47,4 @@ jobs:
           artifacts: './module.json, ./release.zip'
           body: "Changelog: https://github.com/mrkwnzl/cyphersystem-compendium/blob/${{github.ref_name}}/CHANGELOG.md#${{steps.substitute_tag.outputs.value}}---${{steps.date.outputs.date}}"
           omitDraftDuringUpdate: true
-          omitNameDuringUpdate: true
           omitPrereleaseDuringUpdate: true

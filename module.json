@@ -9,7 +9,8 @@
       "path": "packs/abilities.db",
       "system": "cyphersystem",
       "type": "Item",
-      "private": false
+      "private": false,
+      "flags": {}
     },
     {
       "label": "Ammo",
@@ -17,7 +18,8 @@
       "path": "packs/ammo.db",
       "system": "cyphersystem",
       "type": "Item",
-      "private": false
+      "private": false,
+      "flags": {}
     },
     {
       "label": "Fantasy Armor",
@@ -25,7 +27,8 @@
       "path": "packs/armor-fantasy.db",
       "system": "cyphersystem",
       "type": "Item",
-      "private": false
+      "private": false,
+      "flags": {}
     },
     {
       "label": "Modern Armor",
@@ -33,7 +36,8 @@
       "path": "packs/armor-modern.db",
       "system": "cyphersystem",
       "type": "Item",
-      "private": false
+      "private": false,
+      "flags": {}
     },
     {
       "label": "Sci-fi Armor",
@@ -41,7 +45,8 @@
       "path": "packs/armor-sci-fi.db",
       "system": "cyphersystem",
       "type": "Item",
-      "private": false
+      "private": false,
+      "flags": {}
     },
     {
       "label": "Fantasy Artifacts",
@@ -49,7 +54,8 @@
       "path": "packs/artifacts-fantasy.db",
       "system": "cyphersystem",
       "type": "Item",
-      "private": false
+      "private": false,
+      "flags": {}
     },
     {
       "label": "Horror Artifacts",
@@ -57,7 +63,8 @@
       "path": "packs/artifacts-horror.db",
       "system": "cyphersystem",
       "type": "Item",
-      "private": false
+      "private": false,
+      "flags": {}
     },
     {
       "label": "Post-Apocalyptic Artifacts",
@@ -65,7 +72,8 @@
       "path": "packs/artifacts-post-apocalyptic.db",
       "system": "cyphersystem",
       "type": "Item",
-      "private": false
+      "private": false,
+      "flags": {}
     },
     {
       "label": "Sci-fi Artifacts",
@@ -73,7 +81,8 @@
       "path": "packs/artifacts-sci-fi.db",
       "system": "cyphersystem",
       "type": "Item",
-      "private": false
+      "private": false,
+      "flags": {}
     },
     {
       "label": "Superhero Artifacts",
@@ -81,7 +90,8 @@
       "path": "packs/artifacts-superhero.db",
       "system": "cyphersystem",
       "type": "Item",
-      "private": false
+      "private": false,
+      "flags": {}
     },
     {
       "label": "Cyphers",
@@ -89,7 +99,8 @@
       "path": "packs/cyphers.db",
       "system": "cyphersystem",
       "type": "Item",
-      "private": false
+      "private": false,
+      "flags": {}
     },
     {
       "label": "Cyphers (Power Boost)",
@@ -97,7 +108,8 @@
       "path": "packs/cyphers-power-boost.db",
       "system": "cyphersystem",
       "type": "Item",
-      "private": false
+      "private": false,
+      "flags": {}
     },
     {
       "label": "Fantasy Equipment",
@@ -105,7 +117,8 @@
       "path": "packs/equipment-fantasy.db",
       "system": "cyphersystem",
       "type": "Item",
-      "private": false
+      "private": false,
+      "flags": {}
     },
     {
       "label": "Modern Equipment",
@@ -113,7 +126,8 @@
       "path": "packs/equipment-modern.db",
       "system": "cyphersystem",
       "type": "Item",
-      "private": false
+      "private": false,
+      "flags": {}
     },
     {
       "label": "Sci-fi Equipment",
@@ -121,7 +135,8 @@
       "path": "packs/equipment-sci-fi.db",
       "system": "cyphersystem",
       "type": "Item",
-      "private": false
+      "private": false,
+      "flags": {}
     },
     {
       "label": "Meeples",
@@ -129,7 +144,8 @@
       "path": "packs/meeples.db",
       "system": "cyphersystem",
       "type": "Actor",
-      "private": false
+      "private": false,
+      "flags": {}
     },
     {
       "label": "Power Shifts",
@@ -137,7 +153,8 @@
       "path": "packs/power-shifts.db",
       "system": "cyphersystem",
       "type": "Item",
-      "private": false
+      "private": false,
+      "flags": {}
     },
     {
       "label": "Scenes",
@@ -145,7 +162,8 @@
       "path": "packs/scenes.db",
       "system": "cyphersystem",
       "type": "Scene",
-      "private": false
+      "private": false,
+      "flags": {}
     },
     {
       "label": "Fantasy Weapons",
@@ -153,7 +171,8 @@
       "path": "packs/weapons-fantasy.db",
       "system": "cyphersystem",
       "type": "Item",
-      "private": false
+      "private": false,
+      "flags": {}
     },
     {
       "label": "Modern Weapons",
@@ -161,7 +180,8 @@
       "path": "packs/weapons-modern.db",
       "system": "cyphersystem",
       "type": "Item",
-      "private": false
+      "private": false,
+      "flags": {}
     },
     {
       "label": "Sci-fi Weapons",
@@ -169,7 +189,8 @@
       "path": "packs/weapons-sci-fi.db",
       "system": "cyphersystem",
       "type": "Item",
-      "private": false
+      "private": false,
+      "flags": {}
     }
   ],
   "url": "https://github.com/mrkwnzl/cyphersystem-compendium",
@@ -179,7 +200,8 @@
   "id": "cyphersystem-compendium",
   "authors": [
     {
-      "name": "Marko Wenzel"
+      "name": "Marko Wenzel",
+      "flags": {}
     }
   ],
   "relationships": {
@@ -193,9 +215,9 @@
     ]
   },
   "compatibility": {
-    "minimum": "0.8.5",
+    "minimum": "9",
     "verified": "10"
   },
   "name": "cyphersystem-compendium",
-  "minimumCoreVersion": "0.8.5"
+  "minimumCoreVersion": "9"
 }
