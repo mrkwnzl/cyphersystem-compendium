@@ -148,6 +148,33 @@
       "flags": {}
     },
     {
+      "label": "Creatures",
+      "name": "creatures",
+      "path": "packs/creatures.db",
+      "system": "cyphersystem",
+      "type": "Actor",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "NPCs",
+      "name": "npcs",
+      "path": "packs/npcs.db",
+      "system": "cyphersystem",
+      "type": "Actor",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Supervillains",
+      "name": "supervillains",
+      "path": "packs/supervillains.db",
+      "system": "cyphersystem",
+      "type": "Actor",
+      "private": false,
+      "flags": {}
+    },
+    {
       "label": "Power Shifts",
       "name": "power-shifts",
       "path": "packs/power-shifts.db",
@@ -219,5 +246,6 @@
     "verified": "10"
   },
   "name": "cyphersystem-compendium",
-  "minimumCoreVersion": "9"
+  "minimumCoreVersion": "9",
+  "compatibleCoreVersion": "9"
 }
