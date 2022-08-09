@@ -22,6 +22,14 @@
       "flags": {}
     },
     {
+      "label": "Basic Skills",
+      "name": "basic-skills",
+      "path": "packs/basic-skills.db",
+      "type": "Item",
+      "private": false,
+      "flags": {}
+    },
+    {
       "label": "Fantasy Armor",
       "name": "armor-fantasy",
       "path": "packs/armor-fantasy.db",
@@ -216,6 +224,15 @@
       "path": "packs/weapons-sci-fi.db",
       "system": "cyphersystem",
       "type": "Item",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Cypher Roll Tables",
+      "name": "cypher-roll-tables",
+      "path": "packs/cypher-roll-tables.db",
+      "system": "cyphersystem",
+      "type": "RollTable",
       "private": false,
       "flags": {}
     }

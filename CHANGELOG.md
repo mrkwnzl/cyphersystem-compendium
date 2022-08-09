@@ -4,9 +4,17 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.2.0] - 2022-08-09
+### Added
+- Compendium for basic skills.
+- Compendium for cypher roll tables.
+
+### Changed
+- The abilities now contain links to other abilities mentioned. **Note:** I think I messed it up a bit and the item IDs might have changed.
+
 ## [3.1.0] - 2022-07-30
 ### Added
-- Compendia for creaturs, NPCs, and supervillains.
+- Compendia for creatures, NPCs, and supervillains.
 
 ### Fixed
 - Cyphers now should have deferred inline roll buttons for all rolls mentioned in the description (except for the level, as that’s rolled on the PC sheet).
