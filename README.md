@@ -1,8 +1,8 @@
 # Cypher SRD Compendium
 
 ![GitHub Latest Release](https://img.shields.io/github/release/mrkwnzl/cyphersystem-compendium?style=flat-square)
-![GitHub Downloads Latest](https://img.shields.io/github/downloads/mrkwnzl/cyphersystem-compendium/latest/total?style=flat-square)
-![GitHub All Releases](https://img.shields.io/github/downloads/mrkwnzl/cyphersystem-compendium/total?style=flat-square)
+![GitHub Downloads Latest](https://img.shields.io/github/downloads/mrkwnzl/cyphersystem-compendium/latest/release.zip?style=flat-square)
+![GitHub All Releases](https://img.shields.io/github/downloads/mrkwnzl/cyphersystem-compendium/total/release.zip?style=flat-square)
 ![License](https://img.shields.io/github/license/mrkwnzl/cyphersystem-compendium?style=flat-square)
 
 This is a module for use in conjunction with the [Cypher System game system for Foundry VTT](https://foundryvtt.com/packages/cyphersystem/). The Cypher SRD Compendium expands the Cypher System game system with compendia with material from the Cypher System Reference Document.
