@@ -6,17 +6,11 @@
 
 This is a module for use in conjunction with the [Cypher System game system for Foundry VTT](https://foundryvtt.com/packages/cyphersystem/). The Cypher SRD Compendium expands the Cypher System game system with compendia with material from the Cypher System Reference Document.
 
-- **Abilities**
-- **Ammo**.
-- **Armor**, sorted by genre.
-- **Artifacts**, sorted by genre.
-- **Cyphers**, sorted by genre.
-- **Equipment**, sorted by genre.
-- **Meeples**, generic NPC tokens, in five colors for levels 1 through 10 with the corresponding default values, which you can use if you quickly need more NPCs on your map.
-- **Scenes** with home scenes that can be used in theater-of-the-mind style games. There are different areas to sort your tokens on the scene.
-- **Weapons**, sorted by genre.
+Included are all abilities, equipment, cyphers, artifacts, NPCs, creatures, vehicles, and roll tables plus the whole Cypher SRD as a journal with linked items, so that you can create a character with a few drag & drops.
 
 Note that the compendia, especially the one with abilities, contain a large number of items. It’s not advised to import everything into a world, as that will hit performance and might even lead to crashes of Foundry. Only import what you really need. For most cases, no import is needed at all.
+
+> v3.2.0 has an unfortunate bug that prevents Foundry from updating to the newest version. If you have that version installed, please uninstall und reinstall the module from the Foundry setup screen.
 
 ## Customizing Scenes
 
