@@ -2,7 +2,7 @@
   "id": "cyphersystem-compendium",
   "title": "Cypher SRD Compendium",
   "description": "A compendium pack for the Cypher System game system",
-  "version": "3.3.0",
+  "version": "3.3.1",
   "compatibility": {
     "minimum": "10",
     "verified": "10.288",
@@ -22,7 +22,7 @@
         "manifest": "https://raw.githubusercontent.com/mrkwnzl/cyphersystem-foundryvtt/main/system.json",
         "compatibility": {
           "minimum": "2.0.0",
-          "verified": "2.0.0"
+          "verified": "2.0.1"
         }
       }
     ]
@@ -358,7 +358,7 @@
     }
   ],
   "url": "https://github.com/mrkwnzl/cyphersystem-compendium",
-  "manifest": "https://github.com/mrkwnzl/cyphersystem-compendium/releases/download/v3.3.0/module.json",
-  "download": "https://github.com/mrkwnzl/cyphersystem-compendium/releases/download/v3.3.0/release.zip",
+  "manifest": "https://raw.githubusercontent.com/mrkwnzl/cyphersystem-compendium/v3.3.1/module.json",
+  "download": "https://github.com/mrkwnzl/cyphersystem-compendium/releases/download/v3.3.1/release.zip",
   "license": "LICENSE.md"
 }
