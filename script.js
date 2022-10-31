@@ -1,0 +1,1 @@
+ui.notifications.error("There has been a bug in the update process for the Cypher SRD Compendium. Please uninstall and reinstall the module in the Foundry setup to get the newest version. Sorry for the inconvenience! –Marko", {permanent: true, console: true});
