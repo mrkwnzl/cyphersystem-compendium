@@ -5,7 +5,7 @@
   "version": "3.3.0",
   "compatibility": {
     "minimum": "10",
-    "verified": "10",
+    "verified": "10.288",
     "maximum": "10"
   },
   "authors": [
@@ -21,9 +21,8 @@
         "type": "system",
         "manifest": "https://raw.githubusercontent.com/mrkwnzl/cyphersystem-foundryvtt/main/system.json",
         "compatibility": {
-          "minimum": "2",
-          "verified": "2",
-          "maximum": "2"
+          "minimum": "2.0.0",
+          "verified": "2.0.0"
         }
       }
     ]
