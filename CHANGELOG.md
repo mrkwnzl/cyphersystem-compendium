@@ -4,6 +4,27 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.3.0] - 2022-10-31
+### Added
+- Compendium for basic creatures and NPCs.
+- Compendium for vehicles.
+- Compendium for starships.
+- Compendium for descriptor characteristics.
+- Compendium for inabilities.
+- Compendium for post-apocalyptic armor.
+- Compendium for post-apocalyptic equipment.
+- Compendium for post-apocalyptic weapons.
+- Compendium for crafting skills.
+- Compendium for expanded skill list (mainly with skills from descriptors).
+- Compendium for CSRD Journals, containing the complete Cypher SRD as a journal with linked items, so that you can create your character with a few drag & drop actions.
+- Roll tables for type background connections.
+
+### Changed
+- Compatiblity with Cyhper system v2.0.0 and Foundry V10. Earlier versions are not supported.
+
+### Removed
+- Removed the cost of equipment from the item descriptions, since the equipment tables are now part of the CSRD Journal, which have the items sorted by cost.
+
 ## [3.2.0] - 2022-08-09
 ### Added
 - Compendium for basic skills.
