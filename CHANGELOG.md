@@ -4,6 +4,19 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.4.0] - 2022-12-09
+### Added
+- Technofantasy Ruleset (journal) to play in your favorite technofantasy setting. Includes three custom types (Blade, Techno-Wizard, and All-Rounder), and a selection of foci and descriptors most suitable for technofantasy settings. Everything is based on material from the CSRD.
+- A table with jumping distances has been added to the CSRD Rulebook.
+- Pre-made attack skills have been added to the Skill (Expanded) compendium.
+
+### Fixed
+- Some typos have been fixed.
+
+## [3.3.1] - 2022-10-31
+## Fixed
+- The manifest URL should now be working.
+
 ## [3.3.0] - 2022-10-31
 ### Added
 - Compendium for basic creatures and NPCs.
