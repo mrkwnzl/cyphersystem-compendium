@@ -4,6 +4,16 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.5.0] - 2023-01-05
+### Added
+- The CSRD Rulebook now includes some notes with errata, clarifications, addendums, and Foundry VTT usage tips. Those are unintrusively put behind a details tag. This way, the comments are clearly separated from the original SRD content.
+- The CSRD Rulebook now includes lists with linked items for all cyphers, creatures, and NPCs at the appropriate places.
+- The Technofantasy Ruleset has been expanded by some more appropriate foci and descriptors. There’s also a new custom type: the Leader (based on the Speaker).
+
+### Changed
+- The CSRD Compendium now requires v2.1.2 of the Cypher system.
+- Added the Cypher System Open License to LICENSE.md.
+
 ## [3.4.0] - 2022-12-09
 ### Added
 - Technofantasy Ruleset (journal) to play in your favorite technofantasy setting. Includes three custom types (Blade, Techno-Wizard, and All-Rounder), and a selection of foci and descriptors most suitable for technofantasy settings. Everything is based on material from the CSRD.
