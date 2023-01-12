@@ -8,6 +8,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 ### Fixed
 - The CSRD Rulebook hasn’t been updated with the correct file in v3.5.0. This has been corrected:
   - The CSRD Rulebook now *really* includes some notes with errata, clarifications, addenda, and Foundry VTT usage tips. Those are unintrusively put behind a details tag. This way, the comments are clearly separated from the original SRD content.
+  - The CSRD Rulebook now *really* includes lists with linked items for all cyphers, creatures, and NPCs at the appropriate places.
 
 ## [3.5.0] - 2023-01-05
 ### Added
