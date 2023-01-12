@@ -2,7 +2,7 @@
   "id": "cyphersystem-compendium",
   "title": "Cypher SRD Compendium",
   "description": "A compendium pack for the Cypher System game system.",
-  "version": "3.5.0",
+  "version": "3.5.1",
   "compatibility": {
     "minimum": "10",
     "verified": "10.291",
@@ -10,7 +10,7 @@
   },
   "url": "https://github.com/mrkwnzl/cyphersystem-compendium",
   "manifest": "https://raw.githubusercontent.com/mrkwnzl/cyphersystem-compendium/main/module.json",
-  "download": "https://github.com/mrkwnzl/cyphersystem-compendium/releases/download/v3.5.0/release.zip",
+  "download": "https://github.com/mrkwnzl/cyphersystem-compendium/releases/download/v3.5.1/release.zip",
   "authors": [
     {
       "name": "Marko Wenzel",
