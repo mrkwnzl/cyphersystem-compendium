@@ -15,7 +15,7 @@
     {
       "name": "Marko Wenzel",
       "discord": "mrkwnzl#7407",
-      "flags": { }
+      "flags": {}
     }
   ],
   "relationships": {
@@ -39,7 +39,7 @@
       "system": "cyphersystem",
       "type": "Item",
       "private": false,
-      "flags": { }
+      "flags": {}
     },
     {
       "label": "Ammo",
@@ -48,7 +48,7 @@
       "system": "cyphersystem",
       "type": "Item",
       "private": false,
-      "flags": { }
+      "flags": {}
     },
     {
       "label": "Fantasy Armor",
@@ -57,7 +57,7 @@
       "system": "cyphersystem",
       "type": "Item",
       "private": false,
-      "flags": { }
+      "flags": {}
     },
     {
       "label": "Modern Armor",
@@ -66,7 +66,7 @@
       "system": "cyphersystem",
       "type": "Item",
       "private": false,
-      "flags": { }
+      "flags": {}
     },
     {
       "label": "Sci-fi Armor",
@@ -75,7 +75,7 @@
       "system": "cyphersystem",
       "type": "Item",
       "private": false,
-      "flags": { }
+      "flags": {}
     },
     {
       "label": "Fantasy Artifacts",
@@ -84,7 +84,7 @@
       "system": "cyphersystem",
       "type": "Item",
       "private": false,
-      "flags": { }
+      "flags": {}
     },
     {
       "label": "Horror Artifacts",
@@ -93,7 +93,7 @@
       "system": "cyphersystem",
       "type": "Item",
       "private": false,
-      "flags": { }
+      "flags": {}
     },
     {
       "label": "Inabilities",
@@ -101,7 +101,7 @@
       "path": "packs/inabilities.db",
       "type": "Item",
       "private": false,
-      "flags": { },
+      "flags": {},
       "system": "cyphersystem"
     },
     {
@@ -111,7 +111,7 @@
       "system": "cyphersystem",
       "type": "Item",
       "private": false,
-      "flags": { }
+      "flags": {}
     },
     {
       "label": "Post-Apocalyptic Armor",
@@ -120,7 +120,7 @@
       "system": "cyphersystem",
       "type": "Item",
       "private": false,
-      "flags": { }
+      "flags": {}
     },
     {
       "label": "Post-Apocalyptic Weapons",
@@ -129,7 +129,7 @@
       "system": "cyphersystem",
       "type": "Item",
       "private": false,
-      "flags": { }
+      "flags": {}
     },
     {
       "label": "Post-Apocalyptic Equipment",
@@ -138,7 +138,7 @@
       "system": "cyphersystem",
       "type": "Item",
       "private": false,
-      "flags": { }
+      "flags": {}
     },
     {
       "label": "Sci-fi Artifacts",
@@ -147,7 +147,7 @@
       "system": "cyphersystem",
       "type": "Item",
       "private": false,
-      "flags": { }
+      "flags": {}
     },
     {
       "label": "Skills (Basic)",
@@ -155,7 +155,7 @@
       "path": "packs/basic-skills.db",
       "type": "Item",
       "private": false,
-      "flags": { },
+      "flags": {},
       "system": "cyphersystem"
     },
     {
@@ -164,7 +164,7 @@
       "path": "packs/crafting-skills.db",
       "type": "Item",
       "private": false,
-      "flags": { },
+      "flags": {},
       "system": "cyphersystem"
     },
     {
@@ -173,7 +173,7 @@
       "path": "packs/expanded-skills.db",
       "type": "Item",
       "private": false,
-      "flags": { },
+      "flags": {},
       "system": "cyphersystem"
     },
     {
@@ -182,7 +182,7 @@
       "path": "packs/descriptor-characteristics.db",
       "type": "Item",
       "private": false,
-      "flags": { },
+      "flags": {},
       "system": "cyphersystem"
     },
     {
@@ -192,7 +192,7 @@
       "system": "cyphersystem",
       "type": "Item",
       "private": false,
-      "flags": { }
+      "flags": {}
     },
     {
       "label": "Cyphers",
@@ -201,16 +201,16 @@
       "system": "cyphersystem",
       "type": "Item",
       "private": false,
-      "flags": { }
+      "flags": {}
     },
     {
-      "label": "Cyphers (Power Boost)",
+      "label": "Superhero Cyphers",
       "name": "cyphers-power-boost",
       "path": "packs/cyphers-power-boost.db",
       "system": "cyphersystem",
       "type": "Item",
       "private": false,
-      "flags": { }
+      "flags": {}
     },
     {
       "label": "Fantasy Equipment",
@@ -219,7 +219,16 @@
       "system": "cyphersystem",
       "type": "Item",
       "private": false,
-      "flags": { }
+      "flags": {}
+    },
+    {
+      "label": "Fantasy Cyphers",
+      "name": "cyphers-fantasy",
+      "path": "packs/cyphers-fantasy.db",
+      "system": "cyphersystem",
+      "type": "Item",
+      "private": false,
+      "flags": {}
     },
     {
       "label": "Modern Equipment",
@@ -228,7 +237,7 @@
       "system": "cyphersystem",
       "type": "Item",
       "private": false,
-      "flags": { }
+      "flags": {}
     },
     {
       "label": "Sci-fi Equipment",
@@ -237,7 +246,7 @@
       "system": "cyphersystem",
       "type": "Item",
       "private": false,
-      "flags": { }
+      "flags": {}
     },
     {
       "label": "Meeples",
@@ -246,7 +255,7 @@
       "system": "cyphersystem",
       "type": "Actor",
       "private": false,
-      "flags": { }
+      "flags": {}
     },
     {
       "label": "Creatures",
@@ -255,7 +264,7 @@
       "system": "cyphersystem",
       "type": "Actor",
       "private": false,
-      "flags": { }
+      "flags": {}
     },
     {
       "label": "NPCs",
@@ -264,7 +273,7 @@
       "system": "cyphersystem",
       "type": "Actor",
       "private": false,
-      "flags": { }
+      "flags": {}
     },
     {
       "label": "Basic Creatures and NPCs",
@@ -273,7 +282,7 @@
       "system": "cyphersystem",
       "type": "Actor",
       "private": false,
-      "flags": { }
+      "flags": {}
     },
     {
       "label": "Supervillains",
@@ -282,7 +291,7 @@
       "system": "cyphersystem",
       "type": "Actor",
       "private": false,
-      "flags": { }
+      "flags": {}
     },
     {
       "label": "Power Shifts",
@@ -291,7 +300,7 @@
       "system": "cyphersystem",
       "type": "Item",
       "private": false,
-      "flags": { }
+      "flags": {}
     },
     {
       "label": "Scenes",
@@ -300,7 +309,7 @@
       "system": "cyphersystem",
       "type": "Scene",
       "private": false,
-      "flags": { }
+      "flags": {}
     },
     {
       "label": "Fantasy Weapons",
@@ -309,7 +318,7 @@
       "system": "cyphersystem",
       "type": "Item",
       "private": false,
-      "flags": { }
+      "flags": {}
     },
     {
       "label": "Modern Weapons",
@@ -318,7 +327,7 @@
       "system": "cyphersystem",
       "type": "Item",
       "private": false,
-      "flags": { }
+      "flags": {}
     },
     {
       "label": "Sci-fi Weapons",
@@ -327,7 +336,16 @@
       "system": "cyphersystem",
       "type": "Item",
       "private": false,
-      "flags": { }
+      "flags": {}
+    },
+    {
+      "label": "Sci-fi Posthuman Packages",
+      "name": "posthuman-packages-sci-fi",
+      "path": "packs/posthuman-packages-sci-fi.db",
+      "system": "cyphersystem",
+      "type": "Item",
+      "private": false,
+      "flags": {}
     },
     {
       "label": "Vehicles",
@@ -336,7 +354,7 @@
       "system": "cyphersystem",
       "type": "Actor",
       "private": false,
-      "flags": { }
+      "flags": {}
     },
     {
       "label": "Starships",
@@ -345,7 +363,7 @@
       "system": "cyphersystem",
       "type": "Actor",
       "private": false,
-      "flags": { }
+      "flags": {}
     },
     {
       "label": "CSRD Roll Tables",
@@ -354,7 +372,7 @@
       "system": "cyphersystem",
       "type": "RollTable",
       "private": false,
-      "flags": { }
+      "flags": {}
     },
     {
       "label": "CSRD Rulebooks",
@@ -363,7 +381,7 @@
       "system": "cyphersystem",
       "type": "JournalEntry",
       "private": false,
-      "flags": { }
+      "flags": {}
     }
   ]
 }
