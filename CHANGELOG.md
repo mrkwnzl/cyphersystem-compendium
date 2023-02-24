@@ -9,6 +9,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - The additions to the CSRD from 2023-02-10 have been added. This now includes the Science Fiction Rulebook, the Fantasy Rulebook, and the Cypher Shorts Rulebook. All new the equipment, cyphers, artifacts, vehicles, abilities, etc. are sorted into the appropriate compendia.
 
 ### Changed
+- The CSRD Compendium now requires Cypher System v2.4.0.
 - The Cypher System Rulebook has been updated with crossreferences to the new Rulebooks.
 - The CSS classes of the editor’s notes has been changed.
 
