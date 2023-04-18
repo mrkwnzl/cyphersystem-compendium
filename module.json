@@ -249,15 +249,6 @@
       "flags": {}
     },
     {
-      "label": "Meeples",
-      "name": "meeples",
-      "path": "packs/meeples.db",
-      "system": "cyphersystem",
-      "type": "Actor",
-      "private": false,
-      "flags": {}
-    },
-    {
       "label": "Creatures",
       "name": "creatures",
       "path": "packs/creatures.db",
@@ -299,15 +290,6 @@
       "path": "packs/power-shifts.db",
       "system": "cyphersystem",
       "type": "Item",
-      "private": false,
-      "flags": {}
-    },
-    {
-      "label": "Scenes",
-      "name": "scenes",
-      "path": "packs/scenes.db",
-      "system": "cyphersystem",
-      "type": "Scene",
       "private": false,
       "flags": {}
     },
