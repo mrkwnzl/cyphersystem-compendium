@@ -4,6 +4,21 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.7.0] - 2023-05-24
+### Added
+- New rulebooks for the superhero, horror, and fairy tale genres. This includes a number of new creatures, NPCs, cyphers & artifacts, and equipment.
+
+### Removed
+- The Technofantasy Ruleset is now part of the Cypher System Community Module.
+- The Meeples are now part of the Cypher System Community Module.
+- The pre-made scenes are now part of the Cypher System Community Module.
+
+### Fixed
+- The ability Driving on the Edge now has the correct description.
+- Typo in the name of the Silicon Parasite has been fixed.
+- The Vampire creature now has the correct level.
+- Some typos in the Cypher System Rulebook have been corrected.
+
 ## [3.6.0] - 2023-02-24
 ### Added
 - The additions to the CSRD from 2023-02-10 have been added. This now includes the Science Fiction Rulebook, the Fantasy Rulebook, and the Cypher Shorts Rulebook. All new the equipment, cyphers, artifacts, vehicles, abilities, etc. are sorted into the appropriate compendia.

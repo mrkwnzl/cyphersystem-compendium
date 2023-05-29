@@ -2,15 +2,15 @@
   "id": "cyphersystem-compendium",
   "title": "Cypher SRD Compendium",
   "description": "A compendium pack for the Cypher System game system.",
-  "version": "3.6.0",
+  "version": "3.7.0",
   "compatibility": {
     "minimum": "10",
     "verified": "10.291",
-    "maximum": "10"
+    "maximum": "11"
   },
   "url": "https://github.com/mrkwnzl/cyphersystem-compendium",
   "manifest": "https://raw.githubusercontent.com/mrkwnzl/cyphersystem-compendium/main/module.json",
-  "download": "https://github.com/mrkwnzl/cyphersystem-compendium/releases/download/v3.6.0/release.zip",
+  "download": "https://github.com/mrkwnzl/cyphersystem-compendium/releases/download/v3.7.0/release.zip",
   "authors": [
     {
       "name": "Marko Wenzel",
@@ -25,8 +25,8 @@
         "type": "system",
         "manifest": "https://raw.githubusercontent.com/mrkwnzl/cyphersystem-foundryvtt/main/system.json",
         "compatibility": {
-          "minimum": "2.4.0",
-          "verified": "2.4.0"
+          "minimum": "2.6.1",
+          "verified": "2.6.1"
         }
       }
     ]
@@ -141,6 +141,33 @@
       "flags": {}
     },
     {
+      "label": "Fairy Tale Equipment",
+      "name": "equipment-fairy-tale",
+      "path": "packs/equipment-fairy-tale.db",
+      "system": "cyphersystem",
+      "type": "Item",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Fairy Tale Cyphers",
+      "name": "cyphers-fairy-tale",
+      "path": "packs/cyphers-fairy-tale.db",
+      "system": "cyphersystem",
+      "type": "Item",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Fairy Tale Artifacts",
+      "name": "artifacts-fairy-tale",
+      "path": "packs/artifacts-fairy-tale.db",
+      "system": "cyphersystem",
+      "type": "Item",
+      "private": false,
+      "flags": {}
+    },
+    {
       "label": "Sci-fi Artifacts",
       "name": "artifacts-sci-fi",
       "path": "packs/artifacts-sci-fi.db",
@@ -153,15 +180,6 @@
       "label": "Skills (Basic)",
       "name": "basic-skills",
       "path": "packs/basic-skills.db",
-      "type": "Item",
-      "private": false,
-      "flags": {},
-      "system": "cyphersystem"
-    },
-    {
-      "label": "Skills (Crafting)",
-      "name": "crafting-skills",
-      "path": "packs/crafting-skills.db",
       "type": "Item",
       "private": false,
       "flags": {},
@@ -231,6 +249,15 @@
       "flags": {}
     },
     {
+      "label": "Horror Cyphers",
+      "name": "cyphers-horror",
+      "path": "packs/cyphers-horror.db",
+      "system": "cyphersystem",
+      "type": "Item",
+      "private": false,
+      "flags": {}
+    },
+    {
       "label": "Modern Equipment",
       "name": "equipment-modern",
       "path": "packs/equipment-modern.db",
@@ -245,15 +272,6 @@
       "path": "packs/equipment-sci-fi.db",
       "system": "cyphersystem",
       "type": "Item",
-      "private": false,
-      "flags": {}
-    },
-    {
-      "label": "Meeples",
-      "name": "meeples",
-      "path": "packs/meeples.db",
-      "system": "cyphersystem",
-      "type": "Actor",
       "private": false,
       "flags": {}
     },
@@ -299,15 +317,6 @@
       "path": "packs/power-shifts.db",
       "system": "cyphersystem",
       "type": "Item",
-      "private": false,
-      "flags": {}
-    },
-    {
-      "label": "Scenes",
-      "name": "scenes",
-      "path": "packs/scenes.db",
-      "system": "cyphersystem",
-      "type": "Scene",
       "private": false,
       "flags": {}
     },
@@ -366,7 +375,7 @@
       "flags": {}
     },
     {
-      "label": "CSRD Roll Tables",
+      "label": "Cypher System Roll Tables",
       "name": "cypher-roll-tables",
       "path": "packs/cypher-roll-tables.db",
       "system": "cyphersystem",
@@ -375,7 +384,7 @@
       "flags": {}
     },
     {
-      "label": "CSRD Rulebooks",
+      "label": "Cypher System Rulebooks",
       "name": "cypher-journals",
       "path": "packs/cypher-journals.db",
       "system": "cyphersystem",
