@@ -4,6 +4,14 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.8.0] - 2023-06-17
+### Added
+- The compendia are now sorted into folders.
+
+### Changed
+- The CSRD Compendium is now only compatible with Foundry V11 or higher.
+- The CSRD Compendium requires the Cypher System v2.7.0 or higher.
+
 ## [3.7.0] - 2023-05-24
 ### Added
 - New rulebooks for the superhero, horror, and fairy tale genres. This includes a number of new creatures, NPCs, cyphers & artifacts, and equipment.
