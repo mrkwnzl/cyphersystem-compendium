@@ -2,15 +2,15 @@
   "id": "cyphersystem-compendium",
   "title": "Cypher SRD Compendium",
   "description": "A compendium pack for the Cypher System game system.",
-  "version": "3.7.0",
+  "version": "3.8.0",
   "compatibility": {
-    "minimum": "10",
-    "verified": "10.291",
+    "minimum": "11",
+    "verified": "11.302",
     "maximum": "11"
   },
   "url": "https://github.com/mrkwnzl/cyphersystem-compendium",
   "manifest": "https://raw.githubusercontent.com/mrkwnzl/cyphersystem-compendium/main/module.json",
-  "download": "https://github.com/mrkwnzl/cyphersystem-compendium/releases/download/v3.7.0/release.zip",
+  "download": "https://github.com/mrkwnzl/cyphersystem-compendium/releases/download/v3.8.0/release.zip",
   "authors": [
     {
       "name": "Marko Wenzel",
@@ -26,7 +26,7 @@
         "manifest": "https://raw.githubusercontent.com/mrkwnzl/cyphersystem-foundryvtt/main/system.json",
         "compatibility": {
           "minimum": "2.6.1",
-          "verified": "2.6.1"
+          "verified": "2.7.0"
         }
       }
     ]
@@ -35,151 +35,25 @@
     {
       "label": "Abilities",
       "name": "abilities",
-      "path": "packs/abilities.db",
+      "path": "packs/abilities",
       "system": "cyphersystem",
       "type": "Item",
       "private": false,
       "flags": {}
     },
     {
-      "label": "Ammo",
-      "name": "ammo",
-      "path": "packs/ammo.db",
-      "system": "cyphersystem",
-      "type": "Item",
-      "private": false,
-      "flags": {}
-    },
-    {
-      "label": "Fantasy Armor",
-      "name": "armor-fantasy",
-      "path": "packs/armor-fantasy.db",
-      "system": "cyphersystem",
-      "type": "Item",
-      "private": false,
-      "flags": {}
-    },
-    {
-      "label": "Modern Armor",
-      "name": "armor-modern",
-      "path": "packs/armor-modern.db",
-      "system": "cyphersystem",
-      "type": "Item",
-      "private": false,
-      "flags": {}
-    },
-    {
-      "label": "Sci-fi Armor",
-      "name": "armor-sci-fi",
-      "path": "packs/armor-sci-fi.db",
-      "system": "cyphersystem",
-      "type": "Item",
-      "private": false,
-      "flags": {}
-    },
-    {
-      "label": "Fantasy Artifacts",
-      "name": "artifacts-fantasy",
-      "path": "packs/artifacts-fantasy.db",
-      "system": "cyphersystem",
-      "type": "Item",
-      "private": false,
-      "flags": {}
-    },
-    {
-      "label": "Horror Artifacts",
-      "name": "artifacts-horror",
-      "path": "packs/artifacts-horror.db",
-      "system": "cyphersystem",
-      "type": "Item",
-      "private": false,
-      "flags": {}
-    },
-    {
-      "label": "Inabilities",
-      "name": "inabilities",
-      "path": "packs/inabilities.db",
+      "label": "Descriptor Characteristics",
+      "name": "descriptor-characteristics",
+      "path": "packs/descriptor-characteristics",
       "type": "Item",
       "private": false,
       "flags": {},
       "system": "cyphersystem"
     },
     {
-      "label": "Post-Apocalyptic Artifacts",
-      "name": "artifacts-post-apocalyptic",
-      "path": "packs/artifacts-post-apocalyptic.db",
-      "system": "cyphersystem",
-      "type": "Item",
-      "private": false,
-      "flags": {}
-    },
-    {
-      "label": "Post-Apocalyptic Armor",
-      "name": "armor-post-apocalyptic",
-      "path": "packs/armor-post-apocalyptic.db",
-      "system": "cyphersystem",
-      "type": "Item",
-      "private": false,
-      "flags": {}
-    },
-    {
-      "label": "Post-Apocalyptic Weapons",
-      "name": "weapons-post-apocalyptic",
-      "path": "packs/weapons-post-apocalyptic.db",
-      "system": "cyphersystem",
-      "type": "Item",
-      "private": false,
-      "flags": {}
-    },
-    {
-      "label": "Post-Apocalyptic Equipment",
-      "name": "equipment-post-apocalyptic",
-      "path": "packs/equipment-post-apocalyptic.db",
-      "system": "cyphersystem",
-      "type": "Item",
-      "private": false,
-      "flags": {}
-    },
-    {
-      "label": "Fairy Tale Equipment",
-      "name": "equipment-fairy-tale",
-      "path": "packs/equipment-fairy-tale.db",
-      "system": "cyphersystem",
-      "type": "Item",
-      "private": false,
-      "flags": {}
-    },
-    {
-      "label": "Fairy Tale Cyphers",
-      "name": "cyphers-fairy-tale",
-      "path": "packs/cyphers-fairy-tale.db",
-      "system": "cyphersystem",
-      "type": "Item",
-      "private": false,
-      "flags": {}
-    },
-    {
-      "label": "Fairy Tale Artifacts",
-      "name": "artifacts-fairy-tale",
-      "path": "packs/artifacts-fairy-tale.db",
-      "system": "cyphersystem",
-      "type": "Item",
-      "private": false,
-      "flags": {}
-    },
-    {
-      "label": "Sci-fi Artifacts",
-      "name": "artifacts-sci-fi",
-      "path": "packs/artifacts-sci-fi.db",
-      "system": "cyphersystem",
-      "type": "Item",
-      "private": false,
-      "flags": {}
-    },
-    {
       "label": "Skills (Basic)",
       "name": "basic-skills",
-      "path": "packs/basic-skills.db",
+      "path": "packs/basic-skills",
       "type": "Item",
       "private": false,
       "flags": {},
@@ -188,25 +62,25 @@
     {
       "label": "Skills (Expanded)",
       "name": "expanded-skills",
-      "path": "packs/expanded-skills.db",
+      "path": "packs/expanded-skills",
       "type": "Item",
       "private": false,
       "flags": {},
       "system": "cyphersystem"
     },
     {
-      "label": "Descriptor Characteristics",
-      "name": "descriptor-characteristics",
-      "path": "packs/descriptor-characteristics.db",
+      "label": "Inabilities",
+      "name": "inabilities",
+      "path": "packs/inabilities",
       "type": "Item",
       "private": false,
       "flags": {},
       "system": "cyphersystem"
     },
     {
-      "label": "Superhero Artifacts",
-      "name": "artifacts-superhero",
-      "path": "packs/artifacts-superhero.db",
+      "label": "Ammo",
+      "name": "ammo",
+      "path": "packs/ammo",
       "system": "cyphersystem",
       "type": "Item",
       "private": false,
@@ -215,142 +89,7 @@
     {
       "label": "Cyphers",
       "name": "cyphers",
-      "path": "packs/cyphers.db",
-      "system": "cyphersystem",
-      "type": "Item",
-      "private": false,
-      "flags": {}
-    },
-    {
-      "label": "Superhero Cyphers",
-      "name": "cyphers-power-boost",
-      "path": "packs/cyphers-power-boost.db",
-      "system": "cyphersystem",
-      "type": "Item",
-      "private": false,
-      "flags": {}
-    },
-    {
-      "label": "Fantasy Equipment",
-      "name": "equipment-fantasy",
-      "path": "packs/equipment-fantasy.db",
-      "system": "cyphersystem",
-      "type": "Item",
-      "private": false,
-      "flags": {}
-    },
-    {
-      "label": "Fantasy Cyphers",
-      "name": "cyphers-fantasy",
-      "path": "packs/cyphers-fantasy.db",
-      "system": "cyphersystem",
-      "type": "Item",
-      "private": false,
-      "flags": {}
-    },
-    {
-      "label": "Horror Cyphers",
-      "name": "cyphers-horror",
-      "path": "packs/cyphers-horror.db",
-      "system": "cyphersystem",
-      "type": "Item",
-      "private": false,
-      "flags": {}
-    },
-    {
-      "label": "Modern Equipment",
-      "name": "equipment-modern",
-      "path": "packs/equipment-modern.db",
-      "system": "cyphersystem",
-      "type": "Item",
-      "private": false,
-      "flags": {}
-    },
-    {
-      "label": "Sci-fi Equipment",
-      "name": "equipment-sci-fi",
-      "path": "packs/equipment-sci-fi.db",
-      "system": "cyphersystem",
-      "type": "Item",
-      "private": false,
-      "flags": {}
-    },
-    {
-      "label": "Creatures",
-      "name": "creatures",
-      "path": "packs/creatures.db",
-      "system": "cyphersystem",
-      "type": "Actor",
-      "private": false,
-      "flags": {}
-    },
-    {
-      "label": "NPCs",
-      "name": "npcs",
-      "path": "packs/npcs.db",
-      "system": "cyphersystem",
-      "type": "Actor",
-      "private": false,
-      "flags": {}
-    },
-    {
-      "label": "Basic Creatures and NPCs",
-      "name": "basic-creatures-and-npcs",
-      "path": "packs/basic-creatures-and-npcs.db",
-      "system": "cyphersystem",
-      "type": "Actor",
-      "private": false,
-      "flags": {}
-    },
-    {
-      "label": "Supervillains",
-      "name": "supervillains",
-      "path": "packs/supervillains.db",
-      "system": "cyphersystem",
-      "type": "Actor",
-      "private": false,
-      "flags": {}
-    },
-    {
-      "label": "Power Shifts",
-      "name": "power-shifts",
-      "path": "packs/power-shifts.db",
-      "system": "cyphersystem",
-      "type": "Item",
-      "private": false,
-      "flags": {}
-    },
-    {
-      "label": "Fantasy Weapons",
-      "name": "weapons-fantasy",
-      "path": "packs/weapons-fantasy.db",
-      "system": "cyphersystem",
-      "type": "Item",
-      "private": false,
-      "flags": {}
-    },
-    {
-      "label": "Modern Weapons",
-      "name": "weapons-modern",
-      "path": "packs/weapons-modern.db",
-      "system": "cyphersystem",
-      "type": "Item",
-      "private": false,
-      "flags": {}
-    },
-    {
-      "label": "Sci-fi Weapons",
-      "name": "weapons-sci-fi",
-      "path": "packs/weapons-sci-fi.db",
-      "system": "cyphersystem",
-      "type": "Item",
-      "private": false,
-      "flags": {}
-    },
-    {
-      "label": "Sci-fi Posthuman Packages",
-      "name": "posthuman-packages-sci-fi",
-      "path": "packs/posthuman-packages-sci-fi.db",
+      "path": "packs/cyphers",
       "system": "cyphersystem",
       "type": "Item",
       "private": false,
@@ -359,38 +98,413 @@
     {
       "label": "Vehicles",
       "name": "vehicles",
-      "path": "packs/vehicles.db",
+      "path": "packs/vehicles",
       "system": "cyphersystem",
       "type": "Actor",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Fantasy Armor",
+      "name": "armor-fantasy",
+      "path": "packs/armor-fantasy",
+      "system": "cyphersystem",
+      "type": "Item",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Fantasy Artifacts",
+      "name": "artifacts-fantasy",
+      "path": "packs/artifacts-fantasy",
+      "system": "cyphersystem",
+      "type": "Item",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Fantasy Cyphers",
+      "name": "cyphers-fantasy",
+      "path": "packs/cyphers-fantasy",
+      "system": "cyphersystem",
+      "type": "Item",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Fantasy Equipment",
+      "name": "equipment-fantasy",
+      "path": "packs/equipment-fantasy",
+      "system": "cyphersystem",
+      "type": "Item",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Fantasy Weapons",
+      "name": "weapons-fantasy",
+      "path": "packs/weapons-fantasy",
+      "system": "cyphersystem",
+      "type": "Item",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Modern Armor",
+      "name": "armor-modern",
+      "path": "packs/armor-modern",
+      "system": "cyphersystem",
+      "type": "Item",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Modern Equipment",
+      "name": "equipment-modern",
+      "path": "packs/equipment-modern",
+      "system": "cyphersystem",
+      "type": "Item",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Modern Weapons",
+      "name": "weapons-modern",
+      "path": "packs/weapons-modern",
+      "system": "cyphersystem",
+      "type": "Item",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Sci-fi Armor",
+      "name": "armor-sci-fi",
+      "path": "packs/armor-sci-fi",
+      "system": "cyphersystem",
+      "type": "Item",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Sci-fi Artifacts",
+      "name": "artifacts-sci-fi",
+      "path": "packs/artifacts-sci-fi",
+      "system": "cyphersystem",
+      "type": "Item",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Sci-fi Equipment",
+      "name": "equipment-sci-fi",
+      "path": "packs/equipment-sci-fi",
+      "system": "cyphersystem",
+      "type": "Item",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Sci-fi Posthuman Packages",
+      "name": "posthuman-packages-sci-fi",
+      "path": "packs/posthuman-packages-sci-fi",
+      "system": "cyphersystem",
+      "type": "Item",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Sci-fi Weapons",
+      "name": "weapons-sci-fi",
+      "path": "packs/weapons-sci-fi",
+      "system": "cyphersystem",
+      "type": "Item",
       "private": false,
       "flags": {}
     },
     {
       "label": "Starships",
       "name": "starships",
-      "path": "packs/starships.db",
+      "path": "packs/starships",
       "system": "cyphersystem",
       "type": "Actor",
       "private": false,
       "flags": {}
     },
     {
-      "label": "Cypher System Roll Tables",
-      "name": "cypher-roll-tables",
-      "path": "packs/cypher-roll-tables.db",
+      "label": "Horror Artifacts",
+      "name": "artifacts-horror",
+      "path": "packs/artifacts-horror",
       "system": "cyphersystem",
-      "type": "RollTable",
+      "type": "Item",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Horror Cyphers",
+      "name": "cyphers-horror",
+      "path": "packs/cyphers-horror",
+      "system": "cyphersystem",
+      "type": "Item",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Superhero Artifacts",
+      "name": "artifacts-superhero",
+      "path": "packs/artifacts-superhero",
+      "system": "cyphersystem",
+      "type": "Item",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Superhero Cyphers",
+      "name": "cyphers-power-boost",
+      "path": "packs/cyphers-power-boost",
+      "system": "cyphersystem",
+      "type": "Item",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Supervillains",
+      "name": "supervillains",
+      "path": "packs/supervillains",
+      "system": "cyphersystem",
+      "type": "Actor",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Power Shifts",
+      "name": "power-shifts",
+      "path": "packs/power-shifts",
+      "system": "cyphersystem",
+      "type": "Item",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Post-Apocalyptic Armor",
+      "name": "armor-post-apocalyptic",
+      "path": "packs/armor-post-apocalyptic",
+      "system": "cyphersystem",
+      "type": "Item",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Post-Apocalyptic Artifacts",
+      "name": "artifacts-post-apocalyptic",
+      "path": "packs/artifacts-post-apocalyptic",
+      "system": "cyphersystem",
+      "type": "Item",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Post-Apocalyptic Equipment",
+      "name": "equipment-post-apocalyptic",
+      "path": "packs/equipment-post-apocalyptic",
+      "system": "cyphersystem",
+      "type": "Item",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Post-Apocalyptic Weapons",
+      "name": "weapons-post-apocalyptic",
+      "path": "packs/weapons-post-apocalyptic",
+      "system": "cyphersystem",
+      "type": "Item",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Fairy Tale Artifacts",
+      "name": "artifacts-fairy-tale",
+      "path": "packs/artifacts-fairy-tale",
+      "system": "cyphersystem",
+      "type": "Item",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Fairy Tale Cyphers",
+      "name": "cyphers-fairy-tale",
+      "path": "packs/cyphers-fairy-tale",
+      "system": "cyphersystem",
+      "type": "Item",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Fairy Tale Equipment",
+      "name": "equipment-fairy-tale",
+      "path": "packs/equipment-fairy-tale",
+      "system": "cyphersystem",
+      "type": "Item",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Creatures",
+      "name": "creatures",
+      "path": "packs/creatures",
+      "system": "cyphersystem",
+      "type": "Actor",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "NPCs",
+      "name": "npcs",
+      "path": "packs/npcs",
+      "system": "cyphersystem",
+      "type": "Actor",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Basic Creatures and NPCs",
+      "name": "basic-creatures-and-npcs",
+      "path": "packs/basic-creatures-and-npcs",
+      "system": "cyphersystem",
+      "type": "Actor",
       "private": false,
       "flags": {}
     },
     {
       "label": "Cypher System Rulebooks",
       "name": "cypher-journals",
-      "path": "packs/cypher-journals.db",
+      "path": "packs/cypher-journals",
       "system": "cyphersystem",
       "type": "JournalEntry",
       "private": false,
       "flags": {}
+    },
+    {
+      "label": "Cypher System Roll Tables",
+      "name": "cypher-roll-tables",
+      "path": "packs/cypher-roll-tables",
+      "system": "cyphersystem",
+      "type": "RollTable",
+      "private": false,
+      "flags": {}
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "CSRD Compendium",
+      "sorting": "m",
+      "folders": [
+        {
+          "name": "Rulebooks & Roll Tables",
+          "sorting": "a",
+          "packs": [
+            "cypher-journals",
+            "cypher-roll-tables"
+          ]
+        },
+        {
+          "name": "Character Creation",
+          "sorting": "a",
+          "packs": [
+            "abilities",
+            "descriptor-characteristics",
+            "inabilities",
+            "basic-skills",
+            "expanded-skills"
+          ]
+        },
+        {
+          "name": "Creatures & NPCs",
+          "sorting": "a",
+          "packs": [
+            "creatures",
+            "npcs",
+            "basic-creatures-and-npcs"
+          ]
+        },
+        {
+          "name": "All Genres",
+          "sorting": "a",
+          "packs": [
+            "ammo",
+            "cyphers",
+            "vehicles"
+          ]
+        },
+        {
+          "name": "Genre: Fantasy",
+          "sorting": "a",
+          "packs": [
+            "armor-fantasy",
+            "artifacts-fantasy",
+            "cyphers-fantasy",
+            "equipment-fantasy",
+            "weapons-fantasy"
+          ]
+        },
+        {
+          "name": "Genre: Modern",
+          "sorting": "a",
+          "packs": [
+            "armor-modern",
+            "equipment-modern",
+            "weapons-modern"
+          ]
+        },
+        {
+          "name": "Genre: Science Fiction",
+          "sorting": "a",
+          "packs": [
+            "armor-sci-fi",
+            "artifacts-sci-fi",
+            "equipment-sci-fi",
+            "posthuman-packages-sci-fi",
+            "weapons-sci-fi",
+            "starships"
+          ]
+        },
+        {
+          "name": "Genre: Horror",
+          "sorting": "a",
+          "packs": [
+            "artifacts-horror",
+            "cyphers-horror"
+          ]
+        },
+        {
+          "name": "Genre: Superheroes",
+          "sorting": "a",
+          "packs": [
+            "artifacts-superhero",
+            "cyphers-power-boost",
+            "supervillains",
+            "power-shifts"
+          ]
+        },
+        {
+          "name": "Genre: Post-Apocalyptic",
+          "sorting": "a",
+          "packs": [
+            "armor-post-apocalyptic",
+            "artifacts-post-apocalyptic",
+            "equipment-post-apocalyptic",
+            "weapons-post-apocalyptic"
+          ]
+        },
+        {
+          "name": "Genre: Fairy Tale",
+          "sorting": "a",
+          "packs": [
+            "artifacts-fairy-tale",
+            "cyphers-fairy-tale",
+            "equipment-fairy-tale"
+          ]
+        }
+      ]
     }
   ]
 }
