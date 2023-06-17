@@ -12,6 +12,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - The CSRD Compendium is now only compatible with Foundry V11 or higher.
 - The CSRD Compendium requires the Cypher System v2.7.0 or higher.
 
+### Fixed
+- The descriptions of Predictive Model and Premonition are now correct.
+
 ## [3.7.0] - 2023-05-24
 ### Added
 - New rulebooks for the superhero, horror, and fairy tale genres. This includes a number of new creatures, NPCs, cyphers & artifacts, and equipment.
