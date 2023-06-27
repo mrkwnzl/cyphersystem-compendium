@@ -400,7 +400,7 @@
       "folders": [
         {
           "name": "Rulebooks & Roll Tables",
-          "sorting": "a",
+          "sorting": "m",
           "packs": [
             "cypher-journals",
             "cypher-roll-tables"
