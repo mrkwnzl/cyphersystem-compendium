@@ -20,7 +20,7 @@ The scenes are all ready to go, but at the same time, can’t be customized. The
 
 The [Cypher FVTT Dev Discord](https://discord.gg/C5zGgtyhwa) is where the development of the system and this module is coordinated and their futures discussed, but anyone is welcome to join and share best practices, ask questions on how to use the system, and share self-created resources for your games.
 
-You can also reach me on the [official Foundry Discord](https://discord.gg/foundryvtt) or via Discord DM: @mrkwnzl#7407.
+You can also reach me on the [official Foundry Discord](https://discord.gg/foundryvtt) or via Discord DM: @mrkwnzl.
 
 ## Buy Me A Coffee
 
