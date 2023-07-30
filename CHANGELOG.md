@@ -4,7 +4,7 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [3.9.0] - 2023-07-31
+## [3.9.0] - 2023-07-30
 ### Added
 - Creatures/NPCs and vehicles now come with pre-made token images based on their type (meaning that not each one has an individual icon; for example orc and goblins have the same token all goblinoids got, and all magical beasts have the same one as well).
 
