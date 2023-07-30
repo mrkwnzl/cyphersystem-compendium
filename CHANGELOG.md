@@ -4,6 +4,13 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.9.0] - 2023-07-31
+### Added
+- Creatures/NPCs and vehicles now come with pre-made token images based on their type (meaning that not each one has an individual icon; for example orc and goblins have the same token all goblinoids got, and all magical beasts have the same one as well).
+
+### Deprecated
+- This will be the last version which comes with the images from scenes, meeples, and icons. If you have scenes or icons from earlier versions of the CSRD compendium, please install the Cypher System Community Content module and replace the scenes from the ones in there! If you still have old items (equipment) from v1 or v2 of the CSRD Compendium, please also replace those with ones from a v3 release. This is needed to slim down the module in file size.
+
 ## [3.8.0] - 2023-06-28
 ### Added
 - The compendia are now sorted into folders.
