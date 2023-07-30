@@ -32,7 +32,7 @@ If the Cypher System for Foundry VTT makes your games more accessible and fun, I
 
 Cypher System material owned by Monte Cook Games is used in accordance with Cypher System Open License.
 
-Images present under the `icons/` directory are distributed under the CC BY 3.0 license.
+Images present under the `icons/` and `img/tokens` directory are distributed under the CC BY 3.0 license.
 
 The software component of this system is distributed under the MIT license.
 
@@ -48,7 +48,7 @@ CYPHER SYSTEM and its logo are trademarks of Monte Cook Games, LLC in the U.S.A.
 
 ### Graphics
 
-All graphics under `icons/` are taken from [game-icons.net](https://game-icons.net).
+All graphics under `icons/` and used in the tokens `img/tokens` are CC BY 3.0 [game-icons.net](https://game-icons.net).
 
 - [Delapouite](https://delapouite.com/)
 - [Lorc](https://lorcblog.blogspot.com/)
