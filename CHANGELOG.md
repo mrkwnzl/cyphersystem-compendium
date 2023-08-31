@@ -4,6 +4,31 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.10.0] - 2023-08-31
+### Changed
+- For performance reasons, the Cypher System Rulebook has been divided into several journals, one per chapter. The old Cypher System Rulebook journal has been changed to an index that links to the corresponding chapter journal, so that links you have set to this journal aren’t useless. But you still might want to update your links.
+
+### Removed
+- Images for scenes, meeplesn, and icons have been removed. If you are using any scene or meeple from earlier versions of the CSRD Compendium, you must do two things, and you can do these things now:
+
+  (1) Install the Cypher System Community Content Module, and either
+
+  (2a) remove the scenes or meeples and import them anew from the Cypher System Communty Content module or
+
+  (2b) update the path of any missing asset. 
+
+  For meeples, that’s from  
+  `/modules/cyphersystem-compendium/icons/` to 
+  `/modules/cyphersystem-community-module/img/meeples/`.
+
+  For scenes, that’s from  
+  `/modules/cyphersystem-compendium/img/scenes/` to 
+  `/modules/cyphersystem-community-module/img/smaug18/scenes/`. 
+
+  For the overlay, that’s from  
+  `/modules/cyphersystem-compendium/img/overlays/` to
+  `/modules/cyphersystem-community-module/img/smaug18/overlays/`. 
+
 ## [3.9.0] - 2023-07-30
 ### Added
 - Creatures/NPCs and vehicles now come with pre-made token images based on their type (meaning that not each one has an individual icon; for example orc and goblins have the same token all goblinoids got, and all magical beasts have the same one as well).
