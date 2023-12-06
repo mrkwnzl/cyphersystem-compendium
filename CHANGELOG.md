@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.10.1] - 2023-12-06
+### Changed
+- Compatibility update for Cypher System v2.12.0.
+
 ## [3.10.0] - 2023-08-31
 ### Changed
 - For performance reasons, the Cypher System Rulebook has been divided into several journals, one per chapter. The old Cypher System Rulebook journal has been changed to an index that links to the corresponding chapter journal, so that links you have set to this journal aren’t useless. But you still might want to update your links.
