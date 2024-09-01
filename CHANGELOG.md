@@ -4,6 +4,23 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.11.0] - 2024-09-01
+### Added
+- Post-Apocalyptic Rulebook.
+
+### Changed
+- Compatibility update for Foundry V12 and Cypher System v3.1.0.
+- Cyphers now have a type.
+- The folders have been re-organized a bit, in order to make finding cyphers a little bit easier. This only applies to new worlds. If you want to apply this to existing worlds, use the following macro and restart Foundry (the complete application) for every world you want to apply the setting to.
+  ```
+  const config = game.settings.get('core', 'compendiumConfiguration');
+  const module = game.modules.get("cyphersystem-compendium");
+  for (const pack of module.packs) {
+    delete config[pack.id];
+  }
+  game.settings.set('core', 'compendiumConfiguration', config);
+  ```
+
 ## [3.10.1] - 2023-12-06
 ### Changed
 - Compatibility update for Cypher System v2.12.0.
