@@ -4,6 +4,18 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.12.0] - 2025-04-17
+### Added
+- Modern Fantasy Rulebook
+- The CSRD Compendium now comes with over 200 tokens from the official books of MCG. All creatures, NPCs and supervillains have that token as their portrait and image for the prototype token. **Note:** These tokens are used with permission from MCG. They are *not* part of a free license and they cannot be shared outside of the CSRD Compendium for Foundry VTT!
+
+### Fixed
+- Lunge and Fling now have the correct cost.
+- Deep One has a corrected Armor value.
+
+### Changed
+- The CSRD Compendium now requires Cypher System v3.3.0.
+
 ## [3.11.0] - 2024-09-01
 ### Added
 - Post-Apocalyptic Rulebook.
