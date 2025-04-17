@@ -2,10 +2,10 @@
   "id": "cyphersystem-compendium",
   "title": "Cypher SRD Compendium",
   "description": "A compendium pack for the Cypher System game system.",
-  "version": "3.11.0",
+  "version": "3.12.0",
   "compatibility": {
     "minimum": "12",
-    "verified": "12"
+    "verified": "12.331"
   },
   "url": "https://github.com/mrkwnzl/cyphersystem-compendium",
   "manifest": "https://raw.githubusercontent.com/mrkwnzl/cyphersystem-compendium/main/module.json",
@@ -24,31 +24,29 @@
         "type": "system",
         "manifest": "https://raw.githubusercontent.com/mrkwnzl/cyphersystem-foundryvtt/main/system.json",
         "compatibility": {
-          "minimum": "3.1.0",
-          "verified": "3.1.0"
+          "minimum": "3.3.0",
+          "verified": "3.3.0"
         }
       }
     ]
   },
   "packs": [
     {
-      "label": "Abilities",
       "name": "abilities",
+      "label": "Abilities",
       "path": "packs/abilities",
-      "system": "cyphersystem",
       "type": "Item",
-      "flags": { },
+      "system": "cyphersystem",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
     },
     {
-      "label": "Descriptor Characteristics",
       "name": "descriptor-characteristics",
+      "label": "Descriptor Characteristics",
       "path": "packs/descriptor-characteristics",
       "type": "Item",
-      "flags": { },
       "system": "cyphersystem",
       "ownership": {
         "PLAYER": "OBSERVER",
@@ -56,11 +54,10 @@
       }
     },
     {
-      "label": "Skills (Basic)",
       "name": "basic-skills",
+      "label": "Skills (Basic)",
       "path": "packs/basic-skills",
       "type": "Item",
-      "flags": { },
       "system": "cyphersystem",
       "ownership": {
         "PLAYER": "OBSERVER",
@@ -68,11 +65,10 @@
       }
     },
     {
-      "label": "Skills (Expanded)",
       "name": "expanded-skills",
+      "label": "Skills (Expanded)",
       "path": "packs/expanded-skills",
       "type": "Item",
-      "flags": { },
       "system": "cyphersystem",
       "ownership": {
         "PLAYER": "OBSERVER",
@@ -80,11 +76,10 @@
       }
     },
     {
-      "label": "Inabilities",
       "name": "inabilities",
+      "label": "Inabilities",
       "path": "packs/inabilities",
       "type": "Item",
-      "flags": { },
       "system": "cyphersystem",
       "ownership": {
         "PLAYER": "OBSERVER",
@@ -92,11 +87,10 @@
       }
     },
     {
-      "label": "Mutations",
       "name": "mutations",
+      "label": "Mutations",
       "path": "packs/mutations",
       "type": "Item",
-      "flags": { },
       "system": "cyphersystem",
       "ownership": {
         "PLAYER": "OBSERVER",
@@ -104,436 +98,444 @@
       }
     },
     {
-      "label": "Ammo",
       "name": "ammo",
+      "label": "Ammo",
       "path": "packs/ammo",
-      "system": "cyphersystem",
       "type": "Item",
-      "flags": { },
+      "system": "cyphersystem",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
     },
     {
-      "label": "Cyphers",
       "name": "cyphers",
+      "label": "Cyphers",
       "path": "packs/cyphers",
-      "system": "cyphersystem",
       "type": "Item",
-      "flags": { },
+      "system": "cyphersystem",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
     },
     {
-      "label": "Vehicles",
       "name": "vehicles",
+      "label": "Vehicles",
       "path": "packs/vehicles",
-      "system": "cyphersystem",
       "type": "Actor",
-      "flags": { },
+      "system": "cyphersystem",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
     },
     {
-      "label": "Fantasy Armor",
       "name": "armor-fantasy",
+      "label": "Fantasy Armor",
       "path": "packs/armor-fantasy",
-      "system": "cyphersystem",
       "type": "Item",
-      "flags": { },
+      "system": "cyphersystem",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
     },
     {
-      "label": "Fantasy Artifacts",
       "name": "artifacts-fantasy",
+      "label": "Fantasy Artifacts",
       "path": "packs/artifacts-fantasy",
-      "system": "cyphersystem",
       "type": "Item",
-      "flags": { },
+      "system": "cyphersystem",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
     },
     {
-      "label": "Fantasy Cyphers",
       "name": "cyphers-fantasy",
+      "label": "Fantasy Cyphers",
       "path": "packs/cyphers-fantasy",
-      "system": "cyphersystem",
       "type": "Item",
-      "flags": { },
+      "system": "cyphersystem",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
     },
     {
-      "label": "Fantasy Equipment",
       "name": "equipment-fantasy",
+      "label": "Fantasy Equipment",
       "path": "packs/equipment-fantasy",
-      "system": "cyphersystem",
       "type": "Item",
-      "flags": { },
+      "system": "cyphersystem",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
     },
     {
-      "label": "Fantasy Weapons",
       "name": "weapons-fantasy",
+      "label": "Fantasy Weapons",
       "path": "packs/weapons-fantasy",
-      "system": "cyphersystem",
       "type": "Item",
-      "flags": { },
+      "system": "cyphersystem",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
     },
     {
-      "label": "Modern Armor",
       "name": "armor-modern",
+      "label": "Modern Armor",
       "path": "packs/armor-modern",
-      "system": "cyphersystem",
       "type": "Item",
-      "flags": { },
+      "system": "cyphersystem",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
     },
     {
-      "label": "Modern Equipment",
       "name": "equipment-modern",
+      "label": "Modern Equipment",
       "path": "packs/equipment-modern",
-      "system": "cyphersystem",
       "type": "Item",
-      "flags": { },
+      "system": "cyphersystem",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
     },
     {
-      "label": "Modern Weapons",
       "name": "weapons-modern",
+      "label": "Modern Weapons",
       "path": "packs/weapons-modern",
-      "system": "cyphersystem",
       "type": "Item",
-      "flags": { },
+      "system": "cyphersystem",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
     },
     {
-      "label": "Sci-fi Armor",
       "name": "armor-sci-fi",
+      "label": "Sci-fi Armor",
       "path": "packs/armor-sci-fi",
-      "system": "cyphersystem",
       "type": "Item",
-      "flags": { },
+      "system": "cyphersystem",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
     },
     {
-      "label": "Sci-fi Artifacts",
       "name": "artifacts-sci-fi",
+      "label": "Sci-fi Artifacts",
       "path": "packs/artifacts-sci-fi",
-      "system": "cyphersystem",
       "type": "Item",
-      "flags": { },
+      "system": "cyphersystem",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
     },
     {
-      "label": "Sci-fi Equipment",
       "name": "equipment-sci-fi",
+      "label": "Sci-fi Equipment",
       "path": "packs/equipment-sci-fi",
-      "system": "cyphersystem",
       "type": "Item",
-      "flags": { },
+      "system": "cyphersystem",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
     },
     {
-      "label": "Sci-fi Posthuman Packages",
       "name": "posthuman-packages-sci-fi",
+      "label": "Sci-fi Posthuman Packages",
       "path": "packs/posthuman-packages-sci-fi",
-      "system": "cyphersystem",
       "type": "Item",
-      "flags": { },
+      "system": "cyphersystem",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
     },
     {
-      "label": "Sci-fi Weapons",
       "name": "weapons-sci-fi",
+      "label": "Sci-fi Weapons",
       "path": "packs/weapons-sci-fi",
-      "system": "cyphersystem",
       "type": "Item",
-      "flags": { },
+      "system": "cyphersystem",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
     },
     {
-      "label": "Starships",
       "name": "starships",
+      "label": "Starships",
       "path": "packs/starships",
-      "system": "cyphersystem",
       "type": "Actor",
-      "flags": { },
+      "system": "cyphersystem",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
     },
     {
-      "label": "Horror Artifacts",
       "name": "artifacts-horror",
+      "label": "Horror Artifacts",
       "path": "packs/artifacts-horror",
-      "system": "cyphersystem",
       "type": "Item",
-      "flags": { },
+      "system": "cyphersystem",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
     },
     {
-      "label": "Horror Cyphers",
       "name": "cyphers-horror",
+      "label": "Horror Cyphers",
       "path": "packs/cyphers-horror",
-      "system": "cyphersystem",
       "type": "Item",
-      "flags": { },
+      "system": "cyphersystem",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
     },
     {
-      "label": "Superhero Artifacts",
       "name": "artifacts-superhero",
+      "label": "Superhero Artifacts",
       "path": "packs/artifacts-superhero",
-      "system": "cyphersystem",
       "type": "Item",
-      "flags": { },
+      "system": "cyphersystem",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
     },
     {
-      "label": "Superhero Cyphers",
       "name": "cyphers-power-boost",
+      "label": "Superhero Cyphers",
       "path": "packs/cyphers-power-boost",
-      "system": "cyphersystem",
       "type": "Item",
-      "flags": { },
+      "system": "cyphersystem",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
     },
     {
-      "label": "Supervillains",
       "name": "supervillains",
+      "label": "Supervillains",
       "path": "packs/supervillains",
-      "system": "cyphersystem",
       "type": "Actor",
-      "flags": { },
+      "system": "cyphersystem",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
     },
     {
-      "label": "Power Shifts",
       "name": "power-shifts",
+      "label": "Power Shifts",
       "path": "packs/power-shifts",
-      "system": "cyphersystem",
       "type": "Item",
-      "flags": { },
+      "system": "cyphersystem",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
     },
     {
-      "label": "Post-Apocalyptic Armor",
       "name": "armor-post-apocalyptic",
+      "label": "Post-Apocalyptic Armor",
       "path": "packs/armor-post-apocalyptic",
-      "system": "cyphersystem",
       "type": "Item",
-      "flags": { },
+      "system": "cyphersystem",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
     },
     {
-      "label": "Post-Apocalyptic Artifacts",
       "name": "artifacts-post-apocalyptic",
+      "label": "Post-Apocalyptic Artifacts",
       "path": "packs/artifacts-post-apocalyptic",
-      "system": "cyphersystem",
       "type": "Item",
-      "flags": { },
+      "system": "cyphersystem",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
     },
     {
-      "label": "Post-Apocalyptic Cyphers",
       "name": "cyphers-post-apocalyptic",
+      "label": "Post-Apocalyptic Cyphers",
       "path": "packs/cyphers-post-apocalyptic",
-      "system": "cyphersystem",
       "type": "Item",
-      "flags": { },
+      "system": "cyphersystem",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
     },
     {
-      "label": "Post-Apocalyptic Equipment",
       "name": "equipment-post-apocalyptic",
+      "label": "Post-Apocalyptic Equipment",
       "path": "packs/equipment-post-apocalyptic",
-      "system": "cyphersystem",
       "type": "Item",
-      "flags": { },
+      "system": "cyphersystem",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
     },
     {
-      "label": "Post-Apocalyptic Weapons",
       "name": "weapons-post-apocalyptic",
+      "label": "Post-Apocalyptic Weapons",
       "path": "packs/weapons-post-apocalyptic",
-      "system": "cyphersystem",
       "type": "Item",
-      "flags": { },
+      "system": "cyphersystem",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
     },
     {
-      "label": "Fairy Tale Artifacts",
       "name": "artifacts-fairy-tale",
+      "label": "Fairy Tale Artifacts",
       "path": "packs/artifacts-fairy-tale",
-      "system": "cyphersystem",
       "type": "Item",
-      "flags": { },
+      "system": "cyphersystem",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
     },
     {
-      "label": "Fairy Tale Cyphers",
       "name": "cyphers-fairy-tale",
+      "label": "Fairy Tale Cyphers",
       "path": "packs/cyphers-fairy-tale",
-      "system": "cyphersystem",
       "type": "Item",
-      "flags": { },
+      "system": "cyphersystem",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
     },
     {
-      "label": "Fairy Tale Equipment",
       "name": "equipment-fairy-tale",
+      "label": "Fairy Tale Equipment",
       "path": "packs/equipment-fairy-tale",
-      "system": "cyphersystem",
       "type": "Item",
-      "flags": { },
+      "system": "cyphersystem",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
     },
     {
-      "label": "Creatures",
       "name": "creatures",
+      "label": "Creatures",
       "path": "packs/creatures",
-      "system": "cyphersystem",
       "type": "Actor",
-      "flags": { },
+      "system": "cyphersystem",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
     },
     {
-      "label": "NPCs",
       "name": "npcs",
+      "label": "NPCs",
       "path": "packs/npcs",
-      "system": "cyphersystem",
       "type": "Actor",
-      "flags": { },
+      "system": "cyphersystem",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
     },
     {
-      "label": "Basic Creatures and NPCs",
       "name": "basic-creatures-and-npcs",
+      "label": "Basic Creatures and NPCs",
       "path": "packs/basic-creatures-and-npcs",
-      "system": "cyphersystem",
       "type": "Actor",
-      "flags": { },
+      "system": "cyphersystem",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
     },
     {
-      "label": "Cypher System Rulebooks",
       "name": "cypher-journals",
+      "label": "Cypher System Rulebooks",
       "path": "packs/cypher-journals",
-      "system": "cyphersystem",
       "type": "JournalEntry",
-      "flags": { },
+      "system": "cyphersystem",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
     },
     {
-      "label": "Cypher System Roll Tables",
       "name": "cypher-roll-tables",
+      "label": "Cypher System Roll Tables",
       "path": "packs/cypher-roll-tables",
-      "system": "cyphersystem",
       "type": "RollTable",
-      "flags": { },
+      "system": "cyphersystem",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
+    },
+    {
+      "name": "artifacts-modern-fantasy",
+      "label": "Modern Fantasy Artifacts",
+      "path": "packs/artifacts-modern-fantasy",
+      "type": "Item",
+      "system": "cyphersystem",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "cyphers-modern-fantasy",
+      "label": "Modern Fantasy Cyphers",
+      "path": "packs/cyphers-modern-fantasy",
+      "type": "Item",
+      "system": "cyphersystem",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "cantrips",
+      "label": "Cantrips",
+      "path": "packs/cantrips",
+      "type": "Item",
+      "system": "cyphersystem",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "equipment-modern-fantasy",
+      "label": "Modern Fantasy Equipment",
+      "path": "packs/equipment-modern-fantasy",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "cyphersystem"
     }
   ],
   "packFolders": [
@@ -544,39 +546,58 @@
         {
           "name": "Rulebooks & Roll Tables",
           "sorting": "m",
-          "packs": [ "cypher-journals", "cypher-roll-tables" ],
-          "folders": [ ]
+          "packs": [
+            "cypher-journals",
+            "cypher-roll-tables"
+          ],
+          "folders": [ ],
+          "color": null
         },
         {
           "name": "Character Creation",
           "sorting": "a",
           "packs": [
             "abilities",
+            "cantrips",
             "descriptor-characteristics",
             "inabilities",
             "basic-skills",
             "expanded-skills",
             "mutations"
           ],
-          "folders": [ ]
+          "folders": [ ],
+          "color": null
         },
         {
           "name": "Creatures & NPCs",
           "sorting": "a",
-          "packs": [ "creatures", "npcs", "basic-creatures-and-npcs" ],
-          "folders": [ ]
+          "packs": [
+            "creatures",
+            "npcs",
+            "basic-creatures-and-npcs"
+          ],
+          "folders": [ ],
+          "color": null
         },
         {
           "name": "Generic Cyphers",
           "sorting": "a",
-          "packs": [ "cyphers" ],
-          "folders": [ ]
+          "packs": [
+            "cyphers"
+          ],
+          "folders": [ ],
+          "color": null
         },
         {
           "name": "Ammo & Vehicles",
           "sorting": "m",
-          "packs": [ "ammo", "vehicles", "starships" ],
-          "folders": [ ]
+          "packs": [
+            "ammo",
+            "vehicles",
+            "starships"
+          ],
+          "folders": [ ],
+          "color": null
         },
         {
           "name": "Genre: Fantasy",
@@ -588,13 +609,30 @@
             "equipment-fantasy",
             "weapons-fantasy"
           ],
-          "folders": [ ]
+          "folders": [ ],
+          "color": null
         },
         {
           "name": "Genre: Modern",
           "sorting": "a",
-          "packs": [ "armor-modern", "equipment-modern", "weapons-modern" ],
-          "folders": [ ]
+          "packs": [
+            "armor-modern",
+            "equipment-modern",
+            "weapons-modern"
+          ],
+          "folders": [ ],
+          "color": null
+        },
+        {
+          "name": "Genre: Modern Fantasy",
+          "sorting": "a",
+          "packs": [
+            "artifacts-modern-fantasy",
+            "cyphers-modern-fantasy",
+            "equipment-modern-fantasy"
+          ],
+          "folders": [ ],
+          "color": null
         },
         {
           "name": "Genre: Science Fiction",
@@ -606,13 +644,18 @@
             "posthuman-packages-sci-fi",
             "weapons-sci-fi"
           ],
-          "folders": [ ]
+          "folders": [ ],
+          "color": null
         },
         {
           "name": "Genre: Horror",
           "sorting": "a",
-          "packs": [ "artifacts-horror", "cyphers-horror" ],
-          "folders": [ ]
+          "packs": [
+            "artifacts-horror",
+            "cyphers-horror"
+          ],
+          "folders": [ ],
+          "color": null
         },
         {
           "name": "Genre: Superheroes",
@@ -623,7 +666,8 @@
             "supervillains",
             "power-shifts"
           ],
-          "folders": [ ]
+          "folders": [ ],
+          "color": null
         },
         {
           "name": "Genre: Post-Apocalyptic",
@@ -635,7 +679,8 @@
             "equipment-post-apocalyptic",
             "weapons-post-apocalyptic"
           ],
-          "folders": [ ]
+          "folders": [ ],
+          "color": null
         },
         {
           "name": "Genre: Fairy Tale",
@@ -645,9 +690,12 @@
             "cyphers-fairy-tale",
             "equipment-fairy-tale"
           ],
-          "folders": [ ]
+          "folders": [ ],
+          "color": null
         }
-      ]
+      ],
+      "color": null,
+      "packs": [ ]
     }
   ]
 }

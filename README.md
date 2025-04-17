@@ -10,12 +10,6 @@ Included are all abilities, equipment, cyphers, artifacts, NPCs, creatures, vehi
 
 Note that the compendia, especially the one with abilities, contain a large number of items. It’s not advised to import everything into a world, as that will hit performance and might even lead to crashes of Foundry. Only import what you really need. For most cases, no import is needed at all.
 
-> v3.2.0 has an unfortunate bug that prevents Foundry from updating to the newest version. If you have that version installed, please uninstall und reinstall the module from the Foundry setup screen.
-
-## Customizing Scenes
-
-The scenes are all ready to go, but at the same time, can’t be customized. The one exception is `Home Scene [Template]`, which has the overlay set up as a tile, so that you can use your own custom backgrounds. For this to work, your background image must have a size of 4000×2250 px.
-
 ## Support and Community
 
 The [Cypher FVTT Dev Discord](https://discord.gg/C5zGgtyhwa) is where the development of the system and this module is coordinated and their futures discussed, but anyone is welcome to join and share best practices, ask questions on how to use the system, and share self-created resources for your games.
@@ -30,9 +24,74 @@ If the Cypher System for Foundry VTT makes your games more accessible and fun, I
 
 ## Licenses
 
+### Cypher System Rules & Texts
+
 Cypher System material owned by Monte Cook Games is used in accordance with Cypher System Open License.
 
-Images present under the `icons/` and `img/tokens` directory are distributed under the CC BY 3.0 license.
+### General Tokens
+
+All graphics used in the tokens `img/tokens` are CC BY 3.0 [game-icons.net](https://game-icons.net).
+
+- [Delapouite](https://delapouite.com/)
+- [Lorc](https://lorcblog.blogspot.com/)
+- [sbed](http://opengameart.org/content/95-game-icons)
+- [Skoll](https://game-icons.net/)
+
+### CSRD Tokens 
+
+Images from various Monte Cook Games works used with permission from Monte Cook Games. This includes files in these folders:
+
+```
+img/csrd-tokens/webp/
+  core-rules
+  fairy-tales
+  fantasy
+  horror
+  modern-fantasy
+  post-apocalyptic
+  sci-fi
+```
+
+That means that these images are *not* free to be shared outside of the CSRD Compendium module for Foundry VTT created by Marko Wenzel.
+
+### Public Domain Tokens
+
+Public Domain Fairy Tale Tokens, including the files
+
+```
+img/csrd-tokens/webp/fairy-tales_public-domain/
+    creature_blind-witch.webp
+    creature_dame-gothel.webp
+    creature_morgan-le-fay.webp
+    creature_oz.webp
+    creature_queen-grimhilde.webp
+    creature_queen.webp
+    creature_sea-witch.webp
+    creature_snow-queen.webp
+    creature_virgilius.webp
+    creature_west-wind.webp
+    creature_wicked-witch-of-the-west.webp
+```
+
+by Marko Wenzel is marked with CC0 1.0.
+
+### Token Creation Kit
+
+CSRD Token Creation Kit, including the files
+
+```
+token-creation-kit/
+  background.png
+  token-border_black.png
+  token-border_blue.png
+  token-border_green.png
+  token-border_red.png
+  token-border_yellow.png
+```
+
+by Marko Wenzel is marked with CC0 1.0.
+
+### Software
 
 The software component of this system is distributed under the MIT license.
 
@@ -43,31 +102,3 @@ Compatible with the Cypher System.
 This product is an independent production and is not affiliated with Monte Cook Games, LLC. It is published under the Cypher System Open License, found at http://csol.montecookgames.com.
 
 CYPHER SYSTEM and its logo are trademarks of Monte Cook Games, LLC in the U.S.A. and other countries. All Monte Cook Games characters and character names, and the distinctive likenesses thereof, are trademarks of Monte Cook Games, LLC. 
-
-## Credits
-
-### Graphics
-
-All graphics under `icons/` and used in the tokens `img/tokens` are CC BY 3.0 [game-icons.net](https://game-icons.net).
-
-- [Delapouite](https://delapouite.com/)
-- [Lorc](https://lorcblog.blogspot.com/)
-- [sbed](http://opengameart.org/content/95-game-icons)
-- [Skoll](https://game-icons.net/)
-
-Images under `img/scenes/` are taken from [Pixabay](https://pixabay.com). 
-
-- [12019](https://pixabay.com/users/12019-12019/)
-- [AlexAntropov86](https://pixabay.com/users/alexantropov86-2691829/)
-- [ArtTower](https://pixabay.com/users/arttower-5337/)
-- [cocoparisienne](https://pixabay.com/users/cocoparisienne-127419/)
-- [jplenio](https://pixabay.com/users/jplenio-7645255/)
-- [kinkate](https://pixabay.com/users/kinkate-4384506/)
-- [Lenalensen](https://pixabay.com/users/lenalensen-2819406/)
-- [MartinStr](https://pixabay.com/users/martinstr-108372/)
-- [OpenClipart-Vectors](https://pixabay.com/users/openclipart-vectors-30363/)
-- [Pexels](https://pixabay.com/users/pexels-2286921/)
-- [prettysleepy1](https://pixabay.com/users/prettysleepy1-2855492/)
-- [Schmid-Reportagen](https://pixabay.com/users/schmid-reportagen-646138/)
-
-`img/overlays/smaug18_home-scene_overlay.png` by smaug18#2066.
